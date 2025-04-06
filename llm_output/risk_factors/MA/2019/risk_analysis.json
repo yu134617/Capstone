@@ -1,0 +1,70 @@
+
+{
+  "Legal and Regulatory": {
+    "Payments Industry Regulation": [
+      "Global regulatory impact",
+      "Interchange rate risks",
+      "Regulatory replication risks",
+      "Surcharging limitations"
+    ],
+    "Preferential or Protective Government Actions": [
+      "Domestic payment protection"
+    ],
+    "Privacy, Data Protection and Security": [
+      "Privacy regulation impact"
+    ],
+    "Other Regulation": [
+      "Payments industry regulations",
+      "Tax law changes"
+    ],
+    "Litigation": [
+      "Litigation liabilities"
+    ]
+  },
+  "Business and Operations": {
+    "Competition and Technology": [
+      "Intense competition",
+      "Disintermediation risks",
+      "Pricing pressure",
+      "Technological changes",
+      "Real-time payment risks",
+      "New product challenges"
+    ],
+    "Information Security and Service Disruptions": [
+      "Security incidents",
+      "Service disruptions"
+    ],
+    "Financial Institution Customers and Other Stakeholder Relationships": [
+      "Customer loss impact",
+      "Exclusive competitor relationships",
+      "Banking consolidation",
+      "Customer dependency",
+      "Merchant cost focus",
+      "Government contract risks"
+    ],
+    "Settlement and Third-Party Obligations": [
+      "Guarantor risks"
+    ],
+    "Global Economic and Political Environment": [
+      "Economic condition impact",
+      "Currency fluctuations",
+      "Brexit impact"
+    ],
+    "Brand and Reputational Impact": [
+      "Negative brand perception",
+      "Brand invisibility"
+    ],
+    "Talent and Culture": [
+      "Workforce retention"
+    ],
+    "Acquisitions": [
+      "Acquisition integration risks"
+    ]
+  },
+  "Class A Common Stock and Governance Structure": {
+    "not sure": [
+      "Anti-takeover provisions",
+      "Foundation stock impact"
+    ]
+  }
+}

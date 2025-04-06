@@ -1,0 +1,18 @@
+
+{
+  "Economic Conditions": ["Global economic conditions", "Regional economic conditions", "Economic downturns", "Foreign currency fluctuations", "Trade disruptions"],
+  "Competition": ["Intense competition", "Market competition", "Competitive pressures", "Pricing pressure", "Technological changes"],
+  "Product and Service Risks": ["Product defects", "Product liability", "Service disruptions", "Product recalls", "Design and manufacturing defects"],
+  "Supply Chain and Manufacturing": ["Supply chain risks", "Dependence on suppliers", "Manufacturing disruptions", "Raw material shortages", "Quality control issues"],
+  "Intellectual Property": ["IP protection risks", "Patent litigation", "Intellectual property claims", "Loss of patent protection", "Invalidation of IP rights"],
+  "Regulatory and Compliance": ["Regulatory scrutiny", "Compliance challenges", "Government regulations", "Privacy laws", "Environmental regulations"],
+  "Financial Risks": ["Operating results fluctuations", "Stock price volatility", "Credit risk", "Investment risks", "Tax liabilities"],
+  "Technology and Cybersecurity": ["IT system failures", "Cybersecurity threats", "Data breaches", "Network disruptions", "Information security"],
+  "Human Resources": ["Key personnel dependency", "Employee retention", "Talent retention", "Workforce retention", "Senior management retention"],
+  "Operational Risks": ["Business disruptions", "Natural disasters impact", "Global operations risks", "International expansion risks", "Acquisition integration risks"],
+  "Legal and Litigation": ["Legal proceedings", "Litigation risks", "Regulatory investigations", "Class action lawsuits", "Government investigations"],
+  "Reputation and Brand": ["Brand reputation damage", "Negative media coverage", "Public scrutiny", "Reputational harm", "Loss of consumer confidence"],
+  "Market and Demand": ["Demand forecasting risk", "Revenue growth decline", "Customer demand estimation", "Market adoption risks", "Economic condition impact"],
+  "Strategic Risks": ["Business strategy risks", "Growth strategy implementation", "New market challenges", "Rapid expansion complexity", "Investment value fluctuations"],
+  "Third-Party Risks": ["Third-party dependencies", "Outsourcing risks", "Supplier relationships", "Merchant dependencies", "Confidentiality breaches"]
+}

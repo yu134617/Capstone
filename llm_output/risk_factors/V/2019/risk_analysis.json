@@ -1,0 +1,34 @@
+
+{
+  "Regulatory Risks": [
+    "Complex global regulations harm business",
+    "Increased payments industry scrutiny harms business",
+    "Government restrictions limit competition",
+    "Data handling laws increase costs",
+    "Tax examinations or disputes impact finances"
+  ],
+  "Litigation Risks": [
+    "Litigation outcomes adversely affect business"
+  ],
+  "Business Risks": [
+    "Intense industry competition",
+    "Client and merchant base dependency",
+    "Merchants push to lower costs harms business",
+    "Third-party relationships dependency",
+    "Brand reputation damage risk",
+    "Global economic conditions harm business",
+    "Settlement loss indemnification risk",
+    "Brexit harms business"
+  ],
+  "Technology and Cybersecurity Risks": [
+    "Failure to adapt to new technologies",
+    "Network or system breaches harm business"
+  ],
+  "Structural and Organizational Risks": [
+    "Acquisition benefits not realized",
+    "Workforce retention challenges",
+    "Stock conversion dilutes voting power",
+    "Differing stockholder interests",
+    "Merger or takeover barriers"
+  ]
+}

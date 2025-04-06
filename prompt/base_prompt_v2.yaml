@@ -1,0 +1,14 @@
+template: |
+  Please summarize {company}'s risk factors following these guidelines:
+  Return them in JSON format. For example:
+  ```
+  {{
+  'root factor A': ['leaf factor A1', 'leaf factor A2', ... ],
+  'root factor B': ['leaf factor B1', 'leaf factor B2', ... ]
+  }}
+  ```
+  Requirements:
+  Ensure the risk structure is hierarchical, with domains as the top-level categories and individual risks as subcategories.
+  The name of each risk factor should be concise and clearly summarize the core content and less than 5 words. 
+  Make sure you cover all the risks! and Do not alter the original logic or wording of the risks;
+  No additional words are allowed in your output except the risks

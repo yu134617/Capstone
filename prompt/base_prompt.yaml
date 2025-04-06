@@ -1,0 +1,18 @@
+template: |
+  Please summarize {company}'s risk factors following these guidelines:
+  Return them in JSON format. For example:
+  ```
+  {{
+  'root factor A': ['leaf factor A1', 'leaf factor A2', ... ],
+  'root factor B': ['leaf factor B1', 'leaf factor B2', ... ]
+  }}
+  ```
+  Requirements:
+  注意只根据识别的加粗标题总结risk factor，加粗标题与正文字体不同。
+  有些有两级标题（一般两级标题的字体也不同），那分别总结成root和leaf; 有些只有一级标题，那就都算leaf, root factor name统一叫做‘not sure’.
+  注意所有的leaf顺序对应原文顺序，不能改变.
+  Ensure the risk structure is hierarchical, with domains as the top-level categories and individual risks as subcategories.
+  The name of each risk factor should be concise and clearly summarize the core content and less than 5 words. 
+  Make sure you cover all the risks! and Do not alter the original logic or wording of the risks;
+  注意factors不能超过60个，如果超了，说明误用正文提取risk factor了, 然后重新使用加粗标题生成.
+  No additional words are allowed in your output except the risks

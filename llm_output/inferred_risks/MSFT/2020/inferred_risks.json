@@ -1,0 +1,144 @@
+{
+  "Competition": [
+    "Intense competition",
+    "Market competition",
+    "Competitive pressures",
+    "Pricing pressure",
+    "Technological changes",
+    "Competition in the technology sector",
+    "Competition among platform-based ecosystems",
+    "Business model competition"
+  ],
+  "Product and Service Risks": [
+    "Product defects",
+    "Product liability",
+    "Service disruptions",
+    "Product recalls",
+    "Design and manufacturing defects",
+    "Quality or reliability problems in software products and services"
+  ],
+  "Supply Chain and Manufacturing": [
+    "Supply chain risks",
+    "Dependence on suppliers",
+    "Manufacturing disruptions",
+    "Raw material shortages",
+    "Quality control issues",
+    "Component shortages",
+    "Excess or obsolete inventory",
+    "Price reductions resulting in inventory adjustments"
+  ],
+  "Intellectual Property": [
+    "IP protection risks",
+    "Patent litigation",
+    "Intellectual property claims",
+    "Loss of patent protection",
+    "Invalidation of IP rights",
+    "Source code leaks",
+    "Legal changes decreasing the value of intellectual property",
+    "Third-party claims of intellectual property infringement"
+  ],
+  "Regulatory and Compliance": [
+    "Regulatory scrutiny",
+    "Compliance challenges",
+    "Government regulations",
+    "Privacy laws",
+    "Environmental regulations",
+    "Anti-Corruption Laws compliance",
+    "Trade protection laws",
+    "Data protection regulations",
+    "Accessibility requirements"
+  ],
+  "Financial Risks": [
+    "Operating results fluctuations",
+    "Stock price volatility",
+    "Credit risk",
+    "Investment risks",
+    "Tax liabilities",
+    "Additional tax liabilities",
+    "Changes in tax laws"
+  ],
+  "Technology and Cybersecurity": [
+    "IT system failures",
+    "Cybersecurity threats",
+    "Data breaches",
+    "Network disruptions",
+    "Information security",
+    "Security of our information technology",
+    "Security of our products, services, devices, and customers' data",
+    "Cyberattacks and security vulnerabilities"
+  ],
+  "Human Resources": [
+    "Key personnel dependency",
+    "Employee retention",
+    "Talent retention",
+    "Workforce retention",
+    "Senior management retention",
+    "Ability to attract and retain talented employees"
+  ],
+  "Operational Risks": [
+    "Business disruptions",
+    "Natural disasters impact",
+    "Global operations risks",
+    "International expansion risks",
+    "Acquisition integration risks",
+    "Catastrophic events or geopolitical conditions disrupting business",
+    "COVID-19 pandemic impacts"
+  ],
+  "Legal and Litigation": [
+    "Legal proceedings",
+    "Litigation risks",
+    "Regulatory investigations",
+    "Class action lawsuits",
+    "Government investigations",
+    "Claims and lawsuits against us",
+    "Government litigation and regulatory activity relating to competition rules"
+  ],
+  "Reputation and Brand": [
+    "Brand reputation damage",
+    "Negative media coverage",
+    "Public scrutiny",
+    "Reputational harm",
+    "Loss of consumer confidence",
+    "Damage to reputation or brands"
+  ],
+  "Market and Demand": [
+    "Demand forecasting risk",
+    "Revenue growth decline",
+    "Customer demand estimation",
+    "Market adoption risks",
+    "Economic condition impact",
+    "Adverse economic or market conditions"
+  ],
+  "Strategic Risks": [
+    "Business strategy risks",
+    "Growth strategy implementation",
+    "New market challenges",
+    "Rapid expansion complexity",
+    "Investment value fluctuations",
+    "Increasing focus on cloud-based services presents execution and competitive risks",
+    "Development of the IoT presents security, privacy, and execution risks",
+    "Issues in the use of AI in our offerings may result in reputational harm or liability"
+  ],
+  "Third-Party Risks": [
+    "Third-party dependencies",
+    "Outsourcing risks",
+    "Supplier relationships",
+    "Merchant dependencies",
+    "Confidentiality breaches",
+    "Abuse of our platforms may harm our reputation or user engagement"
+  ],
+  "new_risk: Data Handling and Privacy": [
+    "Disclosure and misuse of personal data could result in liability and harm our reputation",
+    "Laws and regulations relating to the handling of personal data may impede the adoption of our services or result in increased costs, legal claims, fines against us, or reputational damage",
+    "We may not be able to protect information in our products and services from use by others"
+  ],
+  "new_risk: Global Operations and Economic Risks": [
+    "Our global business exposes us to operational and economic risks",
+    "Our business with government customers may present additional uncertainties",
+    "Adverse economic or market conditions may harm our business"
+  ],
+  "new_risk: Environmental and Climate Risks": [
+    "Long-term effects of climate change on the global economy and the IT industry",
+    "Environmental regulations or changes in the supply, demand or available sources of energy or other resources"
+  ]
+}

@@ -1,0 +1,80 @@
+
+{
+    "Pharmaceutical R&D risks": [
+        "High cost and uncertainty in R&D",
+        "High failure rate in drug development",
+        "Long development timelines",
+        "Regulatory approval challenges",
+        "Difficulty predicting revenue growth"
+    ],
+    "Intellectual property risks": [
+        "Dependence on products with IP protection",
+        "Loss of patent protection",
+        "Rapid revenue decline post-patent loss",
+        "Patent challenges and litigation",
+        "Invalidation or weakening of IP rights"
+    ],
+    "Pricing and reimbursement risks": [
+        "Government price controls",
+        "Private payer restrictions",
+        "Increasing pricing pressures",
+        "Reimbursement and access challenges"
+    ],
+    "Competitive risks": [
+        "Competition from multinationals",
+        "Competition from generics and biosimilars",
+        "Market displacement by superior products",
+        "Treatment innovations reducing drug need"
+    ],
+    "Currency and economic risks": [
+        "Foreign currency rate fluctuations",
+        "Economic downturns affecting demand",
+        "Trade disruptions and disputes",
+        "Customer financial difficulties"
+    ],
+    "Tax risks": [
+        "Changes in tax rates",
+        "Exposure to additional tax liabilities",
+        "Impact of tax reform legislation"
+    ],
+    "IT and data risks": [
+        "IT system failures or breaches",
+        "Cyber-attacks and data compromises",
+        "Violations of data protection laws",
+        "Reputational harm from data breaches"
+    ],
+    "Product safety and liability risks": [
+        "Unexpected safety or efficacy concerns",
+        "Product recalls or withdrawals",
+        "Product liability claims",
+        "Self-insurance risks"
+    ],
+    "Regulatory compliance risks": [
+        "Marketing and promotional practice claims",
+        "cGMP compliance issues",
+        "Regulatory investigations and penalties",
+        "Exclusion from health care programs"
+    ],
+    "Manufacturing and supply risks": [
+        "Manufacturing difficulties or disruptions",
+        "Quality or regulatory compliance problems",
+        "Natural disasters affecting supply",
+        "Raw material shortages"
+    ],
+    "Third-party risks": [
+        "Reliance on third-party relationships",
+        "Outsourcing performance failures",
+        "Confidentiality breaches by third parties"
+    ],
+    "Animal health risks": [
+        "Increased generic competition",
+        "Food and animal safety concerns",
+        "Agricultural market factors",
+        "Regulatory changes in animal health"
+    ],
+    "Divestiture risks": [
+        "Unrealized value from Elanco divestiture",
+        "Tax treatment uncertainties",
+        "Separation implementation risks"
+    ]
+}

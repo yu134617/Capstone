@@ -1,0 +1,53 @@
+template: |
+  Your task is to analyze the provided dictionary `merged_dict`, where each key represents a Level 1 category and its corresponding value is a list of Level 2 risk factors. Perform the following operations:
+
+  ### Task:
+  1. Merge Similar Level 1 Categories:
+     1. Identify and merge Level 1 categories that are semantically similar or closely related in the provided dictionary `merged_dict`. 
+     2. Use the most descriptive name for merged categories.
+     3. Retain all Level 2 risk factors associated with the merged Level 1 categories under the new combined Level 1 category.
+
+        **Example:**
+        - Input:
+            ```python
+            {{
+                'Level 1 Category A': ['Level 2 Risk Factor 1', 'Level 2 Risk Factor 2'],
+                'Level 1 Category B': ['Level 2 Risk Factor 3', 'Level 2 Risk Factor 4']
+            }}
+            ```
+        - If 'Level 1 Category A' and 'Level 1 Category B' are similar, merge them into a new category:
+            ```python
+            {{
+                'New Level 1 Category': ['Level 2 Risk Factor 1', 'Level 2 Risk Factor 2', 'Level 2 Risk Factor 3', 'Level 2 Risk Factor 4']
+            }}
+            ```
+  2. Merge Similar Level 2 Risk Factors:
+     1. Within each resulting new Level 1 category, identify and merge Level 2 risk factors that are semantically similar or closely related.
+     2. Ensure no duplicate or redundant Level 2 risk factors remain within each level1 category.
+     3. Use the most descriptive name for merged factors.
+
+    **Example:**
+    - Input:
+        ```python
+        {{
+            'Level 1 Category A': ['Level 2 Risk Factor 1', 'Level 2 Risk Factor 2', 'Level 2 Risk Factor 1']
+        }}
+        ```
+    - After merging similar Level 2 risk factors:
+        ```python
+       {{
+            'Level 1 Category A': ['Level 2 Risk Factor 1', 'Level 2 Risk Factor 2']
+        }}
+        ```
+  ### Output Format:
+  Return the results in JSON format.
+
+  **IMPORTANT**: Your response should ONLY contain the final result in JSON format. 
+   Do not include any additional explanations, steps, or other text. For example:
+    ```json
+   {{
+   'New Level 1 Category A': ["Level 2 Risk Factor 1", "Level 2 Risk Factor 2", ...],
+   'New Level 1 Category B': ["Level 2 Risk Factor 3", "Level 2 Risk Factor 4", ...]
+     }}```
+
+  Here is the input dict: ```{all_risk_dicts}```

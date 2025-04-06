@@ -1,0 +1,19 @@
+template: |
+  Given a company's risk description, analyze its risks using the provided risk framework.
+  
+  Risk Framework: {framework}
+  
+  Requirements:
+  1. Use existing risk categories where applicable.
+  2. For new risks:
+     - Similar to existing: add as new leaf under existing root.
+     - Completely new: create new root category.
+     - 新的factor前都加上前缀label 'new_risk', 如'new_risk: ABC risks'
+  3. 每个factor少于5个单词
+  3. Return ONLY a valid JSON object with NO additional text.
+  
+  Example JSON structure:
+  {{"company_risks": {{...}}}}
+  
+  Company: {company}
+  Risk Analysis: {description}
