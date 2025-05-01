@@ -1,0 +1,24 @@
+
+{
+  "Competition": ["Strong competition"],
+  "Consumer Trends": ["Timely response to consumer needs"],
+  "Strategic Initiatives": ["Implementation of store and supply chain initiatives"],
+  "Labor": ["Attract and retain qualified associates"],
+  "IT Systems": ["Failure of key IT systems", "Disruptions in customer-facing technology"],
+  "Supply Chain": ["Disruptions in supply chain"],
+  "Data Security": ["Privacy and security of information"],
+  "Payment Risks": ["Payment-related risks"],
+  "Economic Conditions": ["Uncertainty in housing market and economy"],
+  "Seasonal and Weather": ["Seasonal influences and weather conditions"],
+  "Supplier Relations": ["Qualified supplier relationships", "Manage supplier alliances"],
+  "Product Quality": ["High level of product quality"],
+  "Proprietary Products": ["Risks of proprietary products"],
+  "Installation Services": ["Manage installation services"],
+  "Strategic Transactions": ["Risks of strategic transactions"],
+  "Regulatory Compliance": ["Changes in laws and regulations"],
+  "International Operations": ["Challenges in international markets"],
+  "Commodity Prices": ["Inflation or deflation of commodity prices"],
+  "Insurance": ["Uncovered property or casualty losses"],
+  "Accounting Standards": ["Changes in accounting standards"],
+  "Legal Proceedings": ["Legal and regulatory proceedings"]
+}

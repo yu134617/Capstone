@@ -1,0 +1,106 @@
+
+{
+  "Operational Risk": [
+    "COVID-19 Pandemic Impact",
+    "Supply Chain Disruptions",
+    "Manufacturing Dependence",
+    "Product Defects",
+    "IT System Failures",
+    "Data Security Breaches",
+    "Service Outages",
+    "Inventory Management",
+    "Natural Disasters",
+    "Labor Issues"
+  ],
+  "Market Risk": [
+    "Economic Conditions Volatility",
+    "Competition Intensification",
+    "Product Transition Challenges",
+    "Inventory Write-downs",
+    "Revenue Fluctuations",
+    "Pricing Pressures",
+    "Consumer Adoption Uncertainty",
+    "Negative Publicity",
+    "Demand Forecasting Errors"
+  ],
+  "Strategic Risk": [
+    "Innovation Failure",
+    "Intellectual Property Risks",
+    "Acquisition Integration Risks",
+    "Technology Adoption Failure",
+    "Key Employee Dependence",
+    "Growth Management",
+    "Corporate Culture Erosion",
+    "Product Development Delays",
+  ],
+  "Financial Risk": [
+    "Currency Fluctuations",
+    "Investment Portfolio Volatility",
+    "Credit Risk Exposure",
+    "Tax Rate Changes",
+    "Stock Price Volatility",
+    "Revenue Recognition Volatility",
+    "Indebtedness Burden",
+    "Cash Flow Volatility"
+  ],
+  "Compliance Risk": [
+    "Legal Proceedings Exposure",
+    "Regulatory Changes Impact",
+    "Data Protection Compliance",
+    "Environmental Compliance",
+    "Privacy Law Compliance",
+    "Anti-Corruption Laws"
+  ],
+  "Cybersecurity Risk": [
+    "Cybersecurity Threats",
+    "Data Breaches",
+    "IT Security Threats",
+    "Product Security Vulnerabilities",
+    "Information Security Incidents",
+    "Cybersecurity Breaches",
+    "Data Privacy Breaches"
+  ],
+  "Legal and Regulatory Risk": [
+    "Litigation Exposure",
+    "Government Regulation Changes",
+    "IP Protection Challenges",
+    "Trade Disputes Impact",
+    "Regulatory Compliance Failure",
+    "Legal Claims Exposure",
+    "Anti-Bribery Regulations",
+    "Tax Examinations",
+    "Sovereign Debt Default"
+  ],
+  "Reputation Risk": [
+    "Brand Reputation Damage",
+    "Negative Brand Perception",
+    "Customer Trust Erosion",
+    "Public Perception",
+    "Content Moderation Failures",
+    "Service Provider Relationships"
+  ],
+  "Supply Chain Risk": [
+    "Manufacturing Disruptions",
+    "Third-Party Reliance",
+    "Component Supply Risks",
+    "Bottling Partner Dependence",
+    "Global Supply Chain Disruptions",
+    "Supplier Reliability Risk",
+    "Material Cost Increases"
+  ],
+  "Technology Risk": [
+    "IT System Failures",
+    "Cloud Strategy Execution Risk",
+    "Product Innovation Failure",
+    "Digital Transformation Failure",
+    "ERP Implementation Risk",
+    "Coding and Configuration Errors"
+  ],
+  "Tax Risk": [
+    "Tax Rate Changes",
+    "International Tax Compliance",
+    "Tax Benefit Volatility",
+    "Tax Incentive Loss",
+    "Tax Disputes Resolution"
+  ]
+}

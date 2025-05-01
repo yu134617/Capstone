@@ -1,0 +1,13 @@
+
+{
+  "Key Personnel Dependency": ["Dependence on key people"],
+  "Workforce Management": ["Need for qualified personnel"],
+  "Investment Risks": ["Concentrated investments"],
+  "Business Competition": ["Competition and technology"],
+  "Economic Conditions": ["Deterioration of economic conditions"],
+  "Terrorism Risks": ["Terrorist acts impact"],
+  "Regulatory Impact": ["Regulatory changes impact"],
+  "Cybersecurity Risks": ["Cyber security risks"],
+  "Derivative Contracts": ["Derivative contracts risks"],
+  "Insurance Risks": ["High risk tolerance", "Estimation error in reserves", "Regulatory changes impact"]
+}

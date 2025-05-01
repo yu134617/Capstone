@@ -1,0 +1,15 @@
+
+{
+    "Healthcare pricing pressures": ["Global sales impact"],
+    "Legal proceedings": ["Significant expenses"],
+    "Product safety concerns": ["Negative sales impact"],
+    "Tax law changes": ["Additional liabilities"],
+    "Intellectual property risks": ["Secure and defend rights"],
+    "Competitive pressures": ["Adverse earnings impact"],
+    "Innovation challenges": ["Development delays"],
+    "Regulatory scrutiny": ["Compliance costs"],
+    "International business risks": ["Foreign currency exchange", "Inflation risks", "Illegal importation", "Anti-bribery regulations", "Other legal risks"],
+    "Manufacturing disruptions": ["Operational delays"],
+    "Third-party manufacturing risks": ["Reliance on third parties"],
+    "Information security risks": ["Cybersecurity breach"]
+}

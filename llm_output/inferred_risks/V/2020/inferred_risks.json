@@ -1,0 +1,33 @@
+{
+  "Regulatory Risks": [
+    "Complex global regulations",
+    "Interchange fee regulation",
+    "Government-imposed restrictions",
+    "Data handling laws",
+    "Tax examinations"
+  ],
+  "Litigation Risks": [
+    "Litigation outcomes impact"
+  ],
+  "Business Risks": [
+    "COVID-19 impact",
+    "Intense competition",
+    "Client base dependency",
+    "Merchant cost pressures",
+    "Brand reputation damage",
+    "Global economic conditions",
+    "Settlement loss risk",
+    "Brexit impact"
+  ],
+  "Technology and Cybersecurity Risks": [
+    "Technology adaptation failure",
+    "Cybersecurity breaches"
+  ],
+  "Structural and Organizational Risks": [
+    "Acquisition integration failure",
+    "Workforce retention risk",
+    "Stock conversion impact",
+    "Stockholder interest conflicts",
+    "Takeover defense provisions"
+  ]
+}

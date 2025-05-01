@@ -1,0 +1,48 @@
+{
+  "Operational Risk": [
+    "COVID-19 Pandemic Impact",
+    "Supply Chain Disruptions",
+    "Product Demand Fluctuations",
+    "Inventory Management Complexity",
+    "Manufacturing Lead Times",
+    "Product Quality Problems",
+    "Counterfeit Products",
+    "Natural Disasters Impact",
+    "Terrorism Impact"
+  ],
+  "Financial Risk": [
+    "Revenue Predictability",
+    "Gross Margin Variability",
+    "Operating Results Fluctuations",
+    "Economic Conditions Impact",
+    "Currency Exchange Fluctuations",
+    "Investment Portfolio Volatility",
+    "Credit Risk Exposure",
+    "Debt Service Requirements"
+  ],
+  "Strategic Risk": [
+    "New Product Development",
+    "Market Entry Challenges",
+    "Acquisition Integration Risks",
+    "Strategic Alliance Management",
+    "Industry Consolidation",
+    "Technology Evolution",
+    "Business Model Transition"
+  ],
+  "Compliance Risk": [
+    "Intellectual Property Protection",
+    "Regulatory Changes",
+    "Tax Law Changes",
+    "Legal Proceedings Exposure",
+    "Data Security Breaches",
+    "Privacy Law Compliance",
+    "Telecom Regulation Changes"
+  ],
+  "Reputation Risk": [
+    "Brand Reputation Damage",
+    "Customer Trust Erosion",
+    "Negative Publicity",
+    "Service Provider Relationships",
+    "Channel Partner Conflicts"
+  ]
+}

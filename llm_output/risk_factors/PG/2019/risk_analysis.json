@@ -1,0 +1,19 @@
+
+{
+    "International operations risks": ["Foreign currency fluctuations"],
+    "Global economic conditions": ["Reduced product demand"],
+    "Credit market risks": ["Reduced credit access"],
+    "Supply chain risks": ["Supply chain disruptions"],
+    "Cost pressures": ["Commodity price fluctuations"],
+    "Innovation risks": ["Product innovation failure"],
+    "Competitive risks": ["Market competition pressures"],
+    "Customer relationship risks": ["Customer demand changes"],
+    "Reputation risks": ["Brand reputation damage"],
+    "Third-party risks": ["Third-party dependency"],
+    "IT/OT risks": ["Cybersecurity breach"],
+    "Political risks": ["Political condition changes"],
+    "Legal compliance risks": ["Regulatory compliance failure"],
+    "Taxation risks": ["Tax regulation changes"],
+    "M&A risks": ["Acquisition integration failure"],
+    "Organizational risks": ["Productivity improvement failure"]
+}

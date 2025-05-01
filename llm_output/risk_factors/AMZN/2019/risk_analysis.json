@@ -1,0 +1,26 @@
+
+{
+    "Competition": ["Intense competition"],
+    "Management and Operations": ["Expansion strain on resources"],
+    "Business Expansion": ["Risks in new products and regions"],
+    "Financial Performance": ["Fluctuations in operating results"],
+    "International Operations": ["Risks in foreign markets"],
+    "Infrastructure": ["Fulfillment and data center risks"],
+    "Seasonality": ["Holiday season strain"],
+    "Commercial Agreements": ["Risks in partnerships"],
+    "Acquisitions": ["Risks in mergers and investments"],
+    "Currency": ["Foreign exchange risk"],
+    "Human Resources": ["Key personnel dependency"],
+    "Data Security": ["Data loss and breaches"],
+    "System Reliability": ["System interruptions"],
+    "Inventory": ["Inventory risks"],
+    "Intellectual Property": ["IP protection and infringement"],
+    "Stock Volatility": ["Rapid business model changes"],
+    "Regulation": ["Evolving government laws"],
+    "Taxation": ["Tax liabilities"],
+    "Supply Chain": ["Supplier relationship risks"],
+    "Government Contracts": ["Procurement regulation risks"],
+    "Product Liability": ["Claims from product harm"],
+    "Payments": ["Payment processing risks"],
+    "Seller Fraud": ["Unlawful seller activities"]
+}

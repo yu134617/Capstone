@@ -1,0 +1,40 @@
+{
+  "Competition Risk": [
+    "Strong competition"
+  ],
+  "Market Risk": [
+    "Consumer trends mismatch",
+    "Customer expectations change"
+  ],
+  "Operational Risk": [
+    "Supply chain disruption",
+    "IT system failure",
+    "Labor retention challenge",
+    "Data security breach",
+    "Payment processing risk"
+  ],
+  "Strategic Risk": [
+    "Initiative implementation failure",
+    "Strategic transaction failure"
+  ],
+  "Regulatory Risk": [
+    "Privacy regulation change",
+    "Labor law change",
+    "Tax law change"
+  ],
+  "Financial Risk": [
+    "Commodity price volatility",
+    "Insurance coverage gap"
+  ],
+  "Legal Risk": [
+    "Product liability",
+    "Installation service liability"
+  ],
+  "Reputation Risk": [
+    "Brand reputation damage"
+  ],
+  "Global Risk": [
+    "International operation challenge",
+    "Trade policy change"
+  ]
+}

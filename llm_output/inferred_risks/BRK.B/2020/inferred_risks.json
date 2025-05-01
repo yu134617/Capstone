@@ -1,0 +1,29 @@
+{
+  "Human Resources": [
+    "Qualified Personnel Need"
+  ],
+  "Investment Risks": [
+    "Equity Concentration Risk"
+  ],
+  "Market Risk": [
+    "Competition Erosion"
+  ],
+  "Economic Conditions": [
+    "Economic Deterioration Impact"
+  ],
+  "Global Operations": [
+    "Terrorist Acts Impact"
+  ],
+  "Regulatory Compliance": [
+    "Utilities Regulation Changes"
+  ],
+  "Data Security": [
+    "Cybersecurity Risks"
+  ],
+  "Insurance Risks": [
+    "Reserve Estimation Risk"
+  ],
+  "Capital Risks": [
+    "Capital Investment Risks"
+  ]
+}

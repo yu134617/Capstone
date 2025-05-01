@@ -1,0 +1,62 @@
+{
+  "Global Operations": [
+    "Foreign currency fluctuations",
+    "Currency exchange controls",
+    "Localized volatility"
+  ],
+  "Economic Conditions": [
+    "Cost fluctuations and pressures"
+  ],
+  "Financial Volatility": [
+    "Disruptions in credit markets",
+    "Credit ratings changes"
+  ],
+  "Supply Chain": [
+    "Global supply chain disruptions"
+  ],
+  "Product Development": [
+    "Product innovation failure",
+    "Marketing innovation failure"
+  ],
+  "Competition": [
+    "Intense market competition",
+    "Emerging retail trends"
+  ],
+  "Customer Risks": [
+    "Customer relationships change",
+    "Customer demand shifts"
+  ],
+  "Reputation Risks": [
+    "Brand reputation damage",
+    "Company reputation erosion"
+  ],
+  "Third-party Risks": [
+    "Third-party dependency risks"
+  ],
+  "Technology Risks": [
+    "Cybersecurity breach risk",
+    "IT system failures"
+  ],
+  "Political Risks": [
+    "Changing political conditions"
+  ],
+  "Legal and Regulatory": [
+    "Compliance with laws",
+    "Regulatory changes impact"
+  ],
+  "Taxation": [
+    "Tax regulations changes",
+    "Tax disputes resolution"
+  ],
+  "Acquisition Risks": [
+    "Acquisition integration risks",
+    "Joint venture risks"
+  ],
+  "Human Resources": [
+    "Productivity improvements failure",
+    "Key talent retention"
+  ],
+  "Operational Risks": [
+    "Disease outbreak impact"
+  ]
+}

@@ -1,0 +1,31 @@
+template: |
+  任务描述: 基于公司财报中的风险描述内容（HTML格式），使用指定的风险框架，进行风险因子分析。
+
+  输入参数:
+    - 公司名称: {company}
+    - 风险描述: {description}（财报中的"risk item"部分，HTML格式）
+    - 风险框架: {framework}
+
+  处理要求:
+    1. 风险因子提取: 仅解析HTML中加粗标题作为风险因子，一定要忽略其他内容(如正文段落)。
+    2. 风险匹配规则:
+       - 优先使用风险框架中的现有因子
+       - 若无接近的匹配项，则生成新因子并添加`new factor`前缀（如：`new factor: technological substitution risk`）
+    3. 输出格式:
+       - 严格返回标准JSON，禁止包含解释性文字
+       - 采用双层结构: `root factor`（风险大类）→ `leaf factor`（具体风险）
+       - 优先采用财报中已有的root factor分类
+       - 若财报无明确分类，则自主归纳4-5个root factor，要求：
+         * 覆盖99%以上leaf factor
+         * 使用行业标准分类（如Market/Operational/Financial/Compliance/Strategic）
+    4. 其他约束:
+       - 保持风险因子在财报中的原始顺序
+       - 每个风险因子名称需简洁，不超过5个英文单词
+
+  示例输出的格式: 
+    {{
+      "Market Risk": ["Demand Decline", "Competition Intensification"],
+      "Compliance Risk": ["Policy Change", "Regulatory Adjustment"]
+    }}
+
+

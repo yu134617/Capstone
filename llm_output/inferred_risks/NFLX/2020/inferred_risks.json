@@ -1,0 +1,38 @@
+{
+  "Business Risk": [
+    "Member Attraction and Retention",
+    "Competitive Offerings Impact",
+    "Content Commitments Cost",
+    "Content Acquisition Liability",
+    "Content Licensing Risks",
+    "Business Growth Management",
+    "International Operations Risks",
+    "Taxation Risks",
+    "Reputation Management",
+    "Marketing Changes Impact",
+    "Partner Device Dependence",
+    "System Disruption Risk",
+    "AWS Dependency Risk",
+    "Technology Failure Risk",
+    "Government Regulation Changes",
+    "Network Operator Changes",
+    "Privacy Concerns Impact",
+    "Data Breach Risk",
+    "Payment Processing Risk",
+    "Intellectual Property Protection",
+    "Intellectual Property Claims",
+    "Legal Proceedings Impact",
+    "Key Employee Retention",
+    "Labor Disputes Impact"
+  ],
+  "Financial Risk": [
+    "Additional Capital Needs",
+    "Substantial Indebtedness Risk",
+    "Cash Flow Insufficiency",
+    "Stock Price Volatility",
+    "Financial Estimates Accuracy"
+  ],
+  "Governance Risk": [
+    "Takeover Prevention Provisions"
+  ]
+}

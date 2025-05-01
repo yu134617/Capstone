@@ -1,0 +1,21 @@
+
+{
+  "Medical cost management": ["Failure to estimate, price for and manage medical costs"],
+  "Regulatory compliance": ["Highly regulated business activities", "Changes in existing laws or regulations"],
+  "Government health care programs": ["Exposure to program funding risks", "Changes in government reimbursement", "Audits and investigations"],
+  "Cybersecurity risks": ["Cyber-attacks and data security incidents"],
+  "Privacy and data laws": ["Failure to comply with privacy and security laws"],
+  "Pharmacy care services": ["Regulatory and operational risks", "Potential claims from pharmacy errors"],
+  "Market competition": ["Failure to compete effectively"],
+  "Provider relationships": ["Failure to maintain satisfactory provider relationships"],
+  "Legal actions": ["Routine legal actions and disputes"],
+  "Strategic transactions": ["Failure to manage alliances or integrate acquisitions"],
+  "Sales performance": ["Dependence on independent producers and consultants"],
+  "Economic conditions": ["Impact of unfavorable economic conditions"],
+  "Investment portfolio": ["Potential investment losses"],
+  "Intangible assets": ["Impairment of intangible assets"],
+  "Information systems": ["Data integrity and system failures"],
+  "Proprietary rights": ["Protection of intellectual property"],
+  "Regulated subsidiaries": ["Restrictions on fund transfers"],
+  "Credit ratings": ["Impact of credit rating downgrades"]
+}

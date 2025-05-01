@@ -1,0 +1,24 @@
+{
+  "Market Risk": [
+    "Commodity Price Volatility"
+  ],
+  "Operational Risk": [
+    "Resource Development Failure",
+    "Operational Disruptions",
+    "Process Control Risks",
+    "Inherent Operational Hazards"
+  ],
+  "Legal and Regulatory Risk": [
+    "Litigation Liability",
+    "Insurance Coverage Gaps",
+    "Political Instability",
+    "GHG Emissions Regulation"
+  ],
+  "Strategic Risk": [
+    "ESG Impact",
+    "Management Estimates Uncertainty"
+  ],
+  "Technology Risk": [
+    "Cybersecurity Threats"
+  ]
+}

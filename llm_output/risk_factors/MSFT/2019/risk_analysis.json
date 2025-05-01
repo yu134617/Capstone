@@ -1,0 +1,67 @@
+
+{
+  "Competition Risks": [
+    "Intense competition across markets",
+    "Competition in technology sector",
+    "Competition among platform ecosystems",
+    "Business model competition"
+  ],
+  "Cloud Services Risks": [
+    "Focus on cloud services risks",
+    "Cloud services execution risks"
+  ],
+  "Investment Risks": [
+    "Investments may not achieve returns"
+  ],
+  "Acquisition Risks": [
+    "Acquisitions adverse effects"
+  ],
+  "Goodwill Risks": [
+    "Goodwill impairment risks"
+  ],
+  "Security Risks": [
+    "Cyberattacks and security vulnerabilities",
+    "Security of IT",
+    "Security of products and data"
+  ],
+  "Data Privacy Risks": [
+    "Disclosure and misuse of personal data",
+    "Protection of information",
+    "Abuse of platforms",
+    "Advertising platform abuses",
+    "Harmful content online"
+  ],
+  "IoT Risks": [
+    "IoT security and privacy risks"
+  ],
+  "AI Risks": [
+    "AI use risks"
+  ],
+  "Infrastructure Risks": [
+    "Outages and data losses",
+    "Quality or supply problems",
+    "Source code protection risks"
+  ],
+  "Intellectual Property Risks": [
+    "Intellectual property value decrease",
+    "Third-party infringement claims"
+  ],
+  "Legal Risks": [
+    "Claims and lawsuits risks",
+    "Government litigation risks",
+    "Anti-corruption laws risks",
+    "Legal changes risks"
+  ],
+  "Tax Risks": [
+    "Additional tax liabilities"
+  ],
+  "Reputation Risks": [
+    "Reputation or brand damage"
+  ],
+  "Global Business Risks": [
+    "Global operational risks",
+    "Adverse economic conditions",
+    "Catastrophic events risks",
+    "Talent retention risks"
+  ]
+}

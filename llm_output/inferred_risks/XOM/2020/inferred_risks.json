@@ -1,0 +1,30 @@
+{
+  "Market Risk": [
+    "Supply and Demand",
+    "Economic conditions",
+    "Other demand-related factors",
+    "Other supply-related factors",
+    "Other market factors"
+  ],
+  "Government and Political Factors": [
+    "Access limitations",
+    "Restrictions on doing business",
+    "Lack of legal certainty",
+    "Regulatory and litigation risks",
+    "Security concerns",
+    "Climate change and greenhouse gas restrictions",
+    "Alternative energy"
+  ],
+  "Operational and Other Factors": [
+    "Exploration and development program",
+    "Project and portfolio management",
+    "Operational efficiency",
+    "Research and development and technological change",
+    "Safety, business controls, and environmental risk management",
+    "Cybersecurity",
+    "Preparedness",
+    "Insurance limitations",
+    "Competition",
+    "Reputation"
+  ]
+}

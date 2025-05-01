@@ -1,0 +1,53 @@
+{
+  "Business Risks": [
+    "COVID-19 Pandemic Impact",
+    "Customer Concentration",
+    "Supply Chain Dependence",
+    "Supplier Concentration",
+    "Global Economic Conditions",
+    "International Operations Risks",
+    "Government Regulations",
+    "Channel Partner Risks",
+    "Senior Management Dependence",
+    "Acquisition Risks",
+    "Legal Proceedings",
+    "Quarterly Fluctuations",
+    "Manufacturing Adjustments",
+    "Semiconductor Industry Cyclicality",
+    "Design Win Challenges",
+    "Competitive Pressures",
+    "Facility Disruptions",
+    "Manufacturing Capacity",
+    "IT System Failures",
+    "Gross Margin Pressure",
+    "IP Protection",
+    "Software Compatibility",
+    "License Agreement Risks",
+    "Third-Party Software",
+    "Open Source Risks",
+    "Warranty Claims",
+    "Product Defects",
+    "R&D Investment Risks",
+    "Data Privacy Laws",
+    "Environmental Laws",
+    "Social Responsibility",
+    "Price Erosion",
+    "Security Breaches",
+    "Foreign Exchange Risks"
+  ],
+  "Tax Risks": [
+    "Tax Legislation Changes",
+    "Tax Incentive Loss",
+    "Tax Benefit Volatility"
+  ],
+  "Debt Risks": [
+    "High Indebtedness",
+    "Debt Covenant Restrictions",
+    "Debt Servicing Challenges"
+  ],
+  "Stock Risks": [
+    "Stock Price Volatility",
+    "Large Investor Holdings",
+    "Dividend Uncertainty"
+  ]
+}

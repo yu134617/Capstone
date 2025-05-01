@@ -1,0 +1,34 @@
+{
+  "Market Risk": [
+    "Advertising Revenue Dependence",
+    "Intense Competition",
+    "Revenue Growth Decline",
+    "New Technologies Impact"
+  ],
+  "Operational Risk": [
+    "Innovation Investment Risks",
+    "Manufacturing Supply Chain Risks",
+    "IT System Failures",
+    "Product Quality Issues",
+    "International Operations Risks"
+  ],
+  "Financial Risk": [
+    "Operating Margin Pressure",
+    "Currency Exchange Risks",
+    "Investment Portfolio Fluctuations",
+    "Tax Rate Changes"
+  ],
+  "Compliance Risk": [
+    "Regulatory Scrutiny",
+    "Data Privacy Laws",
+    "Intellectual Property Claims",
+    "Content Liability",
+    "Anti-Corruption Laws"
+  ],
+  "Strategic Risk": [
+    "Brand Reputation Damage",
+    "Acquisition Integration Risks",
+    "Key Personnel Dependency",
+    "Corporate Culture Erosion"
+  ]
+}

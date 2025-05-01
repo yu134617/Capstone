@@ -1,0 +1,34 @@
+{
+  "Operational Risk": [
+    "Medical Cost Management",
+    "Data Integrity Failure",
+    "System Integration Failure",
+    "Technology Product Failure",
+    "Supply Chain Disruption",
+    "Physician Relationship Risk"
+  ],
+  "Regulatory Risk": [
+    "Government Regulation Changes",
+    "Healthcare Program Risks",
+    "International Regulation Risks",
+    "Privacy Law Compliance",
+    "Pharmacy Regulation Risks"
+  ],
+  "Financial Risk": [
+    "Investment Portfolio Losses",
+    "Intangible Asset Impairment",
+    "Subsidiary Fund Restrictions",
+    "Credit Rating Downgrade"
+  ],
+  "Strategic Risk": [
+    "Competitive Market Pressure",
+    "Acquisition Integration Risk",
+    "Producer Network Dependency",
+    "Economic Condition Impact"
+  ],
+  "Legal Risk": [
+    "Litigation Exposure",
+    "Intellectual Property Risk",
+    "Contract Dispute Risk"
+  ]
+}

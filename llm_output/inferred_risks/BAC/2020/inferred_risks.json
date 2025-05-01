@@ -1,0 +1,58 @@
+{
+  "Market Risk": [
+    "U.S. and international financial markets",
+    "Market volatility",
+    "Interest rate changes",
+    "Asset value decline",
+    "Currency exchange rates"
+  ],
+  "Liquidity Risk": [
+    "Capital market access",
+    "Deposit maintenance",
+    "Credit ratings impact",
+    "Funding costs increase",
+    "Subsidiary dependency"
+  ],
+  "Credit Risk": [
+    "Economic disruptions",
+    "Credit loss reserves",
+    "Housing market decline",
+    "Derivatives exposure",
+    "Counterparty default"
+  ],
+  "Geopolitical Risk": [
+    "Political instability",
+    "Regulatory changes",
+    "U.K. exit from EU",
+    "Trade policies",
+    "Sovereign debt default"
+  ],
+  "Operational Risk": [
+    "System failures",
+    "Cybersecurity breaches",
+    "Data management",
+    "Third-party reliance",
+    "Model limitations"
+  ],
+  "Regulatory Risk": [
+    "Compliance costs",
+    "Legal actions",
+    "Capital requirements",
+    "Tax law changes",
+    "Accounting standards"
+  ],
+  "Reputation Risk": [
+    "Customer trust",
+    "Employee misconduct",
+    "Public perception",
+    "Privacy concerns",
+    "Conflicts of interest"
+  ],
+  "Strategic Risk": [
+    "Competitive pressure",
+    "Product adaptation",
+    "Talent retention",
+    "Technology evolution",
+    "IBOR transition"
+  ]
+}

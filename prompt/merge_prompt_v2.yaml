@@ -1,0 +1,19 @@
+template: |
+  You will receive a list of dictionaries where each dictionary contains a summarized 
+  two-level risk factors from a different company.
+  Your job is to merge them and return a dictionary following below JSON format and some requirements.
+  
+  Format:
+    {{
+    'root factor A': ['leaf factor A1', 'leaf factor A2', ... ],
+    'root factor B': ['leaf factor B1', 'leaf factor B2', ... ]
+    }}
+  
+  Requirements:
+  - Merge risks with similar meanings. Merge more aggressively. Similar meanings are fine, exact wording isn't necessary.
+  - Group risks under the same domain.
+  - Create new root/leaf factors if needed.
+  - Keep risk names concise (<5 words).
+  - Output ONLY the JSON.
+
+  Input list: {input}

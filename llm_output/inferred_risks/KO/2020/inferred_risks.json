@@ -1,0 +1,61 @@
+{
+  "Market Risk": [
+    "Obesity Health Concerns",
+    "Consumer Preferences Shift",
+    "Increased Competition",
+    "Retail Landscape Changes",
+    "Emerging Markets Expansion",
+    "Foreign Exchange Fluctuations",
+    "Unfavorable U.S. Economy",
+    "International Economic Conditions"
+  ],
+  "Operational Risk": [
+    "Water Scarcity Impact",
+    "Agricultural Productivity Decline",
+    "Product Safety Concerns",
+    "Ingredient Health Concerns",
+    "Innovation Failure",
+    "Digital Transformation Failure",
+    "Supply Chain Disruptions",
+    "Energy Cost Increase",
+    "Raw Material Shortage",
+    "Plastic Environmental Impact",
+    "Beverage Container Regulations",
+    "Product Labeling Requirements",
+    "Bottling Partner Dependence",
+    "Bottling Partner Financial Health",
+    "Workforce Retention",
+    "Labor Unrest",
+    "Manufacturing Integration",
+    "Refranchising Challenges",
+    "Monster Partnership Risks",
+    "Catastrophic Events Impact"
+  ],
+  "Financial Risk": [
+    "Interest Rate Increase",
+    "Tax Rate Changes",
+    "Indirect Tax Increases",
+    "Productivity Initiative Costs",
+    "Impairment Charges",
+    "Pension Plan Liabilities",
+    "Credit Market Deterioration",
+    "Counterparty Default Risk"
+  ],
+  "Compliance Risk": [
+    "Data Protection Laws",
+    "Privacy Regulation Compliance",
+    "Environmental Regulations",
+    "Workplace Human Rights",
+    "Third-Party Compliance",
+    "Intellectual Property Protection",
+    "Legal Proceedings Exposure",
+    "High-Risk Market Compliance"
+  ],
+  "Strategic Risk": [
+    "Brand Image Damage",
+    "Climate Change Impact",
+    "Long-Term Growth Failure",
+    "Acquisition Integration",
+    "Global Operations Risks"
+  ]
+}

@@ -1,0 +1,50 @@
+
+{
+  "Market": [
+    "Financial markets impact",
+    "Market volatility risk",
+    "Asset value decline risk",
+    "Interest rate risk"
+  ],
+  "Liquidity": [
+    "Capital market access risk",
+    "Credit rating downgrade risk",
+    "Subsidiary dependency risk",
+    "Resolution impact risk"
+  ],
+  "Credit": [
+    "Economic disruption risk",
+    "Housing market risk",
+    "Derivatives business risk"
+  ],
+  "Geopolitical": [
+    "Global operations risk",
+    "U.K. exit from EU risk"
+  ],
+  "Business Operations": [
+    "Operational systems failure risk",
+    "Cybersecurity breach risk",
+    "Mortgage repurchase risk",
+    "GSE structure change risk",
+    "Risk management failure risk",
+    "Broker-dealer reorganization risk"
+  ],
+  "Regulatory, Compliance and Legal": [
+    "Regulatory changes risk",
+    "Legal liability risk",
+    "Capital requirements risk",
+    "Accounting standards risk",
+    "Tax law changes risk"
+  ],
+  "Reputation": [
+    "Reputational harm risk"
+  ],
+  "Other": [
+    "Competition risk",
+    "Product adaptation risk",
+    "Employee retention risk",
+    "Model failure risk",
+    "Data management risk",
+    "LIBOR reform risk"
+  ]
+}

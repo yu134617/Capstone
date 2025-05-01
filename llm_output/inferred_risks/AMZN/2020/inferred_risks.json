@@ -1,0 +1,36 @@
+{
+  "Competition Risk": [
+    "Intense competition"
+  ],
+  "Operational Risk": [
+    "Management strain",
+    "Expansion risks",
+    "Operating results fluctuations",
+    "Fulfillment network risks",
+    "Inventory risks",
+    "System interruption risks",
+    "Data security breaches",
+    "Key personnel dependency"
+  ],
+  "Strategic Risk": [
+    "New product risks",
+    "Acquisition integration risks",
+    "Investment risks"
+  ],
+  "Legal and Regulatory Risk": [
+    "Intellectual property risks",
+    "Government regulation changes",
+    "Litigation risks",
+    "Tax liabilities",
+    "Supplier compliance risks"
+  ],
+  "Financial Risk": [
+    "Foreign exchange risk",
+    "Payment processing risks",
+    "Fraudulent seller activities"
+  ],
+  "Global Risk": [
+    "International operations risks",
+    "Political and trade risks"
+  ]
+}

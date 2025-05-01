@@ -1,0 +1,30 @@
+{
+  "Business and Industry Risks": [
+    "Market Evolution Failure",
+    "Intense Competition",
+    "Cybersecurity Threats",
+    "Third-Party Manufacturing Dependence",
+    "Product Defects Impact",
+    "Business Disruptions",
+    "Demand Estimation Errors",
+    "Customer Concentration",
+    "International Operations Risks",
+    "Key Employee Retention",
+    "Acquisition Integration Risks"
+  ],
+  "Regulatory and Legal Risks": [
+    "IP Protection Challenges",
+    "Legal Proceedings Exposure",
+    "Privacy Compliance Risks",
+    "Tax Liabilities Exposure",
+    "Regulatory Compliance Failure"
+  ],
+  "Financial Risks": [
+    "Revenue Fluctuations",
+    "Stock Price Volatility"
+  ],
+  "Strategic Risks": [
+    "Technology Adoption Failure",
+    "Supply Chain Disruptions"
+  ]
+}

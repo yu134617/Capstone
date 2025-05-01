@@ -1,0 +1,31 @@
+
+{
+  "Strategic Risks": [
+    "General economic factors",
+    "Strong competition",
+    "Consumer trends failure",
+    "Omni-channel strategy failure",
+    "Strategic alliances performance"
+  ],
+  "Operational Risks": [
+    "Natural disasters impact",
+    "Supplier risks",
+    "Product safety issues",
+    "Information systems disruption",
+    "eCommerce technology failure",
+    "Data security breach",
+    "Pharmacy business changes",
+    "Labor issues"
+  ],
+  "Financial Risks": [
+    "Foreign exchange fluctuations",
+    "Market expectations failure"
+  ],
+  "Legal, Tax, Regulatory, Compliance, Reputational and Other Risks": [
+    "International operations risks",
+    "Tax and trade changes",
+    "Regulatory compliance failure",
+    "Legal proceedings impact",
+    "FCPA liability risks"
+  ]
+}
