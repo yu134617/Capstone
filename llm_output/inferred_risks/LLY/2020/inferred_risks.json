@@ -1,32 +1,28 @@
 {
-  "Product Risks": [
-    "Pharmaceutical R&D uncertainty",
-    "Product patent expiration",
-    "Intellectual property protection",
-    "Product safety concerns",
-    "Product liability claims"
+  "Operational Risks": [
+    "Pharmaceutical research and development risks",
+    "Intellectual property protection risks",
+    "IT system vulnerabilities",
+    "Manufacturing difficulties or disruptions",
+    "Third-party dependency"
   ],
-  "Competition": [
-    "Intense competition",
-    "Generic competition",
-    "Biosimilar competition"
-  ],
-  "Regulatory Compliance": [
+  "Financial Risks": [
     "Government price controls",
-    "Regulatory compliance problems",
-    "Manufacturing regulation"
-  ],
-  "Financial Volatility": [
-    "Foreign currency risk",
+    "Foreign currency rate changes",
     "Tax rate changes",
-    "Economic downturns impact"
+    "Pricing pressure risks"
   ],
-  "Technology Risks": [
-    "IT system breaches",
-    "Data protection failures"
+  "Strategic Risks": [
+    "Intense competition",
+    "Product safety or efficacy concerns",
+    "Brand reputation damage"
   ],
-  "Supply Chain": [
-    "Manufacturing disruptions",
-    "Third-party reliance"
+  "Compliance Risks": [
+    "Regulatory compliance failure",
+    "Legal proceedings exposure"
+  ],
+  "Geopolitics Risks": [
+    "Economic downturns impact",
+    "International trade disruptions"
   ]
 }

@@ -1,0 +1,38 @@
+{
+  "Business & Operational Risks": [
+    "Intense competition",
+    "Manufacturing disruption risks",
+    "Third-party dependency",
+    "new factor: Counterfeit product risks",
+    "COVID-19 pandemic impact"
+  ],
+  "Regulatory & Legal Risks": [
+    "Pricing pressure risks",
+    "Legal proceedings exposure",
+    "Product quality risks",
+    "Regulatory compliance failure"
+  ],
+  "Financial & Tax Risks": [
+    "Tax regulation changes",
+    "Tax liabilities exposure"
+  ],
+  "Intellectual Property Risks": [
+    "Intellectual property protection risk"
+  ],
+  "Development & Innovation Risks": [
+    "R&D investment risks"
+  ],
+  "Global Operations Risks": [
+    "Currency exchange risks",
+    "Anti-corruption laws risks"
+  ],
+  "Organizational Risks": [
+    "Workforce retention challenges",
+    "new factor: Business separation execution risk"
+  ],
+  "Environmental & Technology Risks": [
+    "Climate change effects",
+    "Cybersecurity breach",
+    "Data security breaches"
+  ]
+}

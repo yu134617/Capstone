@@ -1,0 +1,28 @@
+{
+  "Regulatory Risks": [
+    "Regulatory compliance failure",
+    "Interchange fee regulation",
+    "Government-imposed obligations",
+    "Data protection laws",
+    "Tax regulation changes",
+    "Legal proceedings exposure"
+  ],
+  "Business Risks": [
+    "Intense competition",
+    "Third-party dependency",
+    "Market competition pressures",
+    "Brand reputation damage",
+    "Economic conditions impact",
+    "Debt service capacity"
+  ],
+  "Technology Risks": [
+    "Technological changes",
+    "Cybersecurity breach"
+  ],
+  "Structural Risks": [
+    "Acquisition integration risks",
+    "Workforce retention challenges",
+    "Stock price volatility",
+    "Corporate governance risk"
+  ]
+}

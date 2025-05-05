@@ -1,0 +1,35 @@
+{
+  "Market Risks": [
+    "Commodity price fluctuations",
+    "Economic conditions impact",
+    "new factor: Alternative energy competitiveness",
+    "new factor: Supply and demand imbalance"
+  ],
+  "Geopolitics": [
+    "Regulatory changes impact",
+    "Political unrest impact",
+    "new factor: Access limitations",
+    "new factor: Restrictions on doing business",
+    "new factor: Lack of legal certainty"
+  ],
+  "Compliance": [
+    "Regulatory compliance failure",
+    "Environmental regulation risks",
+    "Legal proceedings exposure"
+  ],
+  "Operational": [
+    "Supply chain disruptions",
+    "Cybersecurity breach",
+    "Natural disasters impact",
+    "new factor: Exploration and development program",
+    "new factor: Project and portfolio management",
+    "new factor: Operational efficiency",
+    "new factor: Research and development and technological change",
+    "new factor: Safety, business controls, and environmental risk management",
+    "new factor: Preparedness"
+  ],
+  "Strategic": [
+    "Intense competition",
+    "Brand reputation damage"
+  ]
+}

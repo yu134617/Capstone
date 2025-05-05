@@ -1,0 +1,44 @@
+{
+  "Economic and Strategic Risks": [
+    "Intense competition",
+    "Economic conditions impact",
+    "Market volatility risk",
+    "Customer concentration risk",
+    "COVID-19 pandemic impact",
+    "new factor: Semi-custom SOC dependency",
+    "Quarterly results fluctuations",
+    "Currency exchange risks",
+    "new factor: IP protection challenges"
+  ],
+  "Operational and Technology Risks": [
+    "Third-party dependency",
+    "Supply chain disruptions",
+    "Manufacturing disruption risks",
+    "Product quality risks",
+    "Cybersecurity breach risks",
+    "IT system failures",
+    "Product compatibility risks",
+    "Inventory management challenges",
+    "ERP implementation risks",
+    "new factor: Third-party IP dependency"
+  ],
+  "Legal and Regulatory Risks": [
+    "Regulatory compliance failure",
+    "Tax regulation changes",
+    "Legal proceedings exposure",
+    "Environmental regulation risks"
+  ],
+  "Merger, Acquisition and Integration Risks": [
+    "Acquisition integration risks",
+    "Asset impairment risks"
+  ],
+  "Liquidity and Capital Resources Risks": [
+    "Debt service capacity",
+    "Cash generation risks"
+  ],
+  "General Risks": [
+    "Political unrest impact",
+    "Workforce retention challenges",
+    "Stock price volatility"
+  ]
+}

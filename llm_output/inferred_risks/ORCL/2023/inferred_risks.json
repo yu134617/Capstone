@@ -1,0 +1,38 @@
+{
+  "Strategic Risks": [
+    "Innovation failure",
+    "Cloud services risks",
+    "Intense competition",
+    "Acquisition integration risks",
+    "new factor: Workforce Restructuring Impact"
+  ],
+  "Operational Risks": [
+    "Product defects impact",
+    "Supply chain disruptions",
+    "Workforce retention challenges",
+    "new factor: Indirect Sales Channel Risks",
+    "COVID-19 pandemic impact"
+  ],
+  "Technology Risks": [
+    "Cybersecurity breach risks",
+    "Data privacy compliance risks"
+  ],
+  "Compliance Risks": [
+    "Environmental regulation risks",
+    "Legal proceedings exposure",
+    "Regulatory compliance failure"
+  ],
+  "Financial Risks": [
+    "Tax liabilities exposure",
+    "Quarterly results fluctuations",
+    "Debt service capacity"
+  ],
+  "Geopolitics Risks": [
+    "International operations risks"
+  ],
+  "Market Risks": [
+    "Currency exchange risks",
+    "Stock price volatility",
+    "Economic conditions impact"
+  ]
+}

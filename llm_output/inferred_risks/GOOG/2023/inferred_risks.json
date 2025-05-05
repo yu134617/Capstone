@@ -1,0 +1,35 @@
+{
+  "Market Risks": [
+    "Advertising revenue dependency"
+  ],
+  "Strategic Risks": [
+    "Intense competition",
+    "R&D investment risks"
+  ],
+  "Financial Risks": [
+    "Revenue growth decline",
+    "Operating margin pressures"
+  ],
+  "Technology Risks": [
+    "Intellectual property protection risk",
+    "Brand reputation damage"
+  ],
+  "Operational Risks": [
+    "Supply chain disruptions",
+    "IT system failures",
+    "Cybersecurity breach risks"
+  ],
+  "Compliance Risks": [
+    "Regulatory compliance failure",
+    "Privacy law compliance",
+    "Data protection laws",
+    "Legal proceedings exposure",
+    "Tax regulation changes"
+  ],
+  "Geopolitics Risks": [
+    "International operations risks"
+  ],
+  "new factor: Content moderation risks": [
+    "new factor: Content moderation risks"
+  ]
+}

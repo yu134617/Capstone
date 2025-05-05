@@ -1,0 +1,33 @@
+{
+  "Strategic Risks": [
+    "Patent expiration and biosimilar competition",
+    "Early patent loss risk",
+    "Third-party IP infringement risk",
+    "R&D failure risk",
+    "Competitive innovation risks"
+  ],
+  "Financial Risks": [
+    "Pricing pressure impact",
+    "Collaboration dependency risk",
+    "Biologics manufacturing complexity",
+    "Third-party service provider risks",
+    "Product liability exposure"
+  ],
+  "Compliance Risks": [
+    "Regulatory approval challenges",
+    "Healthcare regulation changes",
+    "Government pricing controls"
+  ],
+  "Operational Risks": [
+    "Manufacturing process failures",
+    "Single-source supplier risk",
+    "Product safety issues",
+    "IT system vulnerabilities",
+    "Counterfeit product distribution"
+  ],
+  "Market Risks": [
+    "International operations challenges",
+    "Dividend payment uncertainty",
+    "Stock dilution risk"
+  ]
+}

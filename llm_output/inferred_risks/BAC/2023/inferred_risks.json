@@ -1,0 +1,43 @@
+{
+  "Market Risks": [
+    "Economic conditions impact",
+    "Market volatility risk",
+    "Housing market risk",
+    "new factor: Derivatives risk"
+  ],
+  "Financial Risks": [
+    "new factor: Liquidity access risk",
+    "Credit rating downgrade risk",
+    "new factor: Holding company structure risk"
+  ],
+  "Credit Risks": [
+    "new factor: Credit loss provision risk",
+    "new factor: Credit concentration risk"
+  ],
+  "Operational Risks": [
+    "Cybersecurity breach",
+    "Cybersecurity breach risk",
+    "COVID-19 pandemic impact",
+    "Workforce retention challenges"
+  ],
+  "Compliance Risks": [
+    "new factor: Mortgage servicing risk",
+    "new factor: GSE structural risk",
+    "Accounting standards changes",
+    "Tax regulation changes",
+    "new factor: IBOR transition risk"
+  ],
+  "Strategic Risks": [
+    "new factor: Resolution plan risk",
+    "Reputation damage risk",
+    "Intense competition",
+    "new factor: Business strategy failure"
+  ],
+  "Technology Risks": [
+    "new factor: Data management failure"
+  ],
+  "Geopolitical Risks": [
+    "Geopolitical risks",
+    "Climate change effects"
+  ]
+}

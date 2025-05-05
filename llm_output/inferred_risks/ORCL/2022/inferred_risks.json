@@ -1,0 +1,35 @@
+{
+  "Business and Operational Risks": [
+    "new factor: Product Development Risk",
+    "new factor: Cloud Strategy Risk",
+    "new factor: Product Configuration Errors",
+    "Intense competition",
+    "Pricing model changes",
+    "Technical support quality",
+    "Supply chain complexity",
+    "Manufacturing logistics delays",
+    "Hardware revenue decline",
+    "Workforce restructuring",
+    "Key employee retention",
+    "Indirect sales channels",
+    "Acquisition integration risks"
+  ],
+  "Data Privacy and Cybersecurity Risks": [
+    "Cybersecurity breach",
+    "Data privacy compliance",
+    "Intellectual property claims"
+  ],
+  "Legal and Regulatory Risks": [
+    "Litigation results impact",
+    "Tax law changes",
+    "International operations risks",
+    "Government contract risks",
+    "Environmental regulation risks"
+  ],
+  "Financial Risks": [
+    "Quarterly results fluctuations",
+    "Currency exchange risks",
+    "Debt management risks",
+    "Stock price volatility"
+  ]
+}

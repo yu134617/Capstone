@@ -1,0 +1,28 @@
+{
+  "Strategic Risks": [
+    "R&D investment risks",
+    "Intellectual property protection risk",
+    "Intense competition"
+  ],
+  "Operational Risks": [
+    "Cybersecurity breach",
+    "Data security breaches",
+    "Supply chain disruptions",
+    "Product quality risks",
+    "Third-party dependency",
+    "COVID-19 pandemic impact"
+  ],
+  "Geopolitics Risks": [
+    "Trade disputes impact",
+    "Political unrest impact"
+  ],
+  "Compliance Risks": [
+    "Legal proceedings exposure",
+    "Regulatory compliance failure",
+    "Tax regulation changes"
+  ],
+  "Market Risks": [
+    "Customer concentration risk",
+    "Currency exchange risks"
+  ]
+}

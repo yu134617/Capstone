@@ -1,0 +1,32 @@
+{
+  "Market Risks": [
+    "Supply and demand imbalance",
+    "Economic conditions impact",
+    "new factor: Demand variability risk",
+    "new factor: Supply variability risk",
+    "Market volatility risk"
+  ],
+  "Geopolitics Risks": [
+    "Regulatory changes impact",
+    "Political condition changes",
+    "International operations risks"
+  ],
+  "Compliance Risks": [
+    "Regulatory compliance failure",
+    "Legal proceedings exposure",
+    "Environmental regulation risks"
+  ],
+  "Operational Risks": [
+    "Cybersecurity breach",
+    "Project execution risk",
+    "Business disruption risks"
+  ],
+  "Strategic Risks": [
+    "Climate change effects",
+    "new factor: Net-zero transition risk",
+    "Technological changes"
+  ],
+  "Technology Risks": [
+    "Technological changes"
+  ]
+}

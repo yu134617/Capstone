@@ -1,0 +1,41 @@
+{
+  "Market Risks": [
+    "Economic conditions impact"
+  ],
+  "Strategic Risks": [
+    "Innovation failure",
+    "Brand reputation damage",
+    "Growth target failure",
+    "Intellectual property protection risk",
+    "Acquisition integration risks"
+  ],
+  "Operational Risks": [
+    "Cybersecurity breach",
+    "Data security breaches",
+    "Third-party dependency",
+    "Product quality risks",
+    "Key personnel dependency",
+    "Supply chain disruptions"
+  ],
+  "Financial Risks": [
+    "Quarterly results fluctuations",
+    "Tax liabilities exposure",
+    "Debt securities value risk",
+    "Cash generation risks"
+  ],
+  "Compliance Risks": [
+    "Environmental regulation risks",
+    "Regulatory compliance failure",
+    "Legal proceedings exposure"
+  ],
+  "Geopolitics Risks": [
+    "Currency exchange risks",
+    "Political condition changes"
+  ],
+  "Technology Risks": [
+    "IT system vulnerabilities"
+  ],
+  "new factor: Government client risks": [
+    "new factor: Government client risks"
+  ]
+}

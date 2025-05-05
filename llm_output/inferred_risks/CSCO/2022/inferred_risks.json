@@ -1,0 +1,42 @@
+{
+  "Operational Risks": [
+    "COVID-19 pandemic impact",
+    "Supply chain disruptions",
+    "Inventory management challenges",
+    "Third-party dependency",
+    "Product quality risks",
+    "Natural disasters impact"
+  ],
+  "Financial Risks": [
+    "Quarterly results fluctuations",
+    "Revenue growth decline",
+    "Gross margin pressures",
+    "Cost reduction challenges",
+    "Debt service capacity"
+  ],
+  "Market Risks": [
+    "Economic conditions impact",
+    "Market volatility risk",
+    "Stock price volatility"
+  ],
+  "Strategic Risks": [
+    "Intense competition",
+    "Innovation failure",
+    "Acquisition integration risks",
+    "Intellectual property protection risk",
+    "new factor: Distribution model disruption"
+  ],
+  "Geopolitical Risks": [
+    "International operations risks",
+    "Political unrest impact"
+  ],
+  "Compliance Risks": [
+    "ESG scrutiny impact",
+    "Privacy law compliance",
+    "Regulatory compliance failure",
+    "Legal proceedings exposure"
+  ],
+  "Technology Risks": [
+    "Cybersecurity breach"
+  ]
+}

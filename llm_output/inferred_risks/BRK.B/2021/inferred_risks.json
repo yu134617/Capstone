@@ -1,0 +1,29 @@
+{
+  "Operational Risks": [
+    "Cybersecurity breach",
+    "Key personnel dependency",
+    "Workforce retention challenges",
+    "Business disruption risks",
+    "COVID-19 pandemic impact"
+  ],
+  "Market Risks": [
+    "Stock price volatility",
+    "Market volatility risk"
+  ],
+  "Strategic Risks": [
+    "Intense competition",
+    "Innovation failure"
+  ],
+  "Financial Risks": [
+    "Investment portfolio fluctuations",
+    "Debt service capacity"
+  ],
+  "Compliance Risks": [
+    "Regulatory compliance failure",
+    "Privacy law compliance",
+    "Environmental regulation risks"
+  ],
+  "Technology Risks": [
+    "Technological changes"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "Macroeconomic and Industry Risks": [
+    "Economic conditions impact",
+    "new factor: Geopolitical disruptions risk",
+    "Market competition pressures"
+  ],
+  "Business Risks": [
+    "Product transition challenges",
+    "Third-party dependency",
+    "Component supply risks",
+    "Product defects impact",
+    "Inventory write-down risk",
+    "IP licensing risks",
+    "Developer ecosystem dependency",
+    "Content acquisition risks",
+    "Talent retention challenges",
+    "Channel partner risks",
+    "IT infrastructure risks",
+    "Data security breaches",
+    "M&A integration risks",
+    "Retail operations risks"
+  ],
+  "Legal and Regulatory Compliance Risks": [
+    "Litigation exposure",
+    "Regulatory compliance failure",
+    "ESG scrutiny impact",
+    "Privacy law compliance",
+    "Antitrust investigations risk"
+  ],
+  "Financial Risks": [
+    "Quarterly results fluctuations",
+    "Currency exchange risks",
+    "Investment portfolio fluctuations",
+    "Credit exposure risks",
+    "Tax liabilities exposure"
+  ],
+  "General Risks": [
+    "Stock price volatility"
+  ]
+}

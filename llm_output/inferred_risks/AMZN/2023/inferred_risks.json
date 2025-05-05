@@ -1,0 +1,37 @@
+{
+  "Strategic Risks": [
+    "Intense competition",
+    "new factor: New market expansion risks",
+    "Intellectual property protection risk",
+    "Strategic alliances performance"
+  ],
+  "Geopolitics Risks": [
+    "International operations risks"
+  ],
+  "Operational Risks": [
+    "Inventory management challenges",
+    "Business disruption risks",
+    "Supply chain disruptions",
+    "Key personnel dependency",
+    "Third-party dependency"
+  ],
+  "Compliance Risks": [
+    "Regulatory compliance failure",
+    "Interchange fee regulation",
+    "Legal proceedings exposure",
+    "Product quality risks",
+    "new factor: Government contract risks"
+  ],
+  "Market Risks": [
+    "Currency exchange risks",
+    "Stock price volatility"
+  ],
+  "Technology Risks": [
+    "Cybersecurity breach risks",
+    "Service disruption risks"
+  ],
+  "Financial Risks": [
+    "Quarterly results fluctuations",
+    "Tax liabilities exposure"
+  ]
+}

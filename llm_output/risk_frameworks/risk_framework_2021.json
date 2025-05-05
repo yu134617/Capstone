@@ -1,0 +1,88 @@
+{
+  "Market": [
+    "Economic conditions impact",
+    "Market volatility risk",
+    "Interest rate risk",
+    "Currency exchange risks",
+    "Commodity price fluctuations",
+    "Stock price volatility",
+    "Advertising revenue dependency",
+    "Housing market risk",
+    "Pricing pressure risks",
+    "Alternative energy competitiveness",
+    "Supply and demand imbalance"
+  ],
+  "Operational": [
+    "Supply chain disruptions",
+    "IT system failures",
+    "Manufacturing disruption risks",
+    "Product defects impact",
+    "Inventory management challenges",
+    "Key personnel dependency",
+    "Cybersecurity breach",
+    "Data security breaches",
+    "Third-party dependency",
+    "Product quality risks",
+    "Business disruption risks",
+    "Natural disasters impact",
+    "Workforce retention challenges",
+    "COVID-19 pandemic impact",
+    "Insurance coverage gaps",
+    "Resource development failure"
+  ],
+  "Financial": [
+    "Quarterly results fluctuations",
+    "Revenue growth decline",
+    "Gross margin pressures",
+    "Tax liabilities exposure",
+    "Debt service capacity",
+    "Credit rating downgrade risk",
+    "Investment portfolio fluctuations",
+    "Cash generation risks",
+    "Cost reduction challenges",
+    "Debt securities value risk"
+  ],
+  "Compliance": [
+    "Regulatory compliance failure",
+    "Privacy law compliance",
+    "Data protection laws",
+    "Environmental regulation risks",
+    "Tax regulation changes",
+    "Legal proceedings exposure",
+    "Anti-corruption laws risks",
+    "Accounting standards changes",
+    "Corporate governance risk",
+    "Interchange fee regulation",
+    "ESG scrutiny impact"
+  ],
+  "Strategic": [
+    "Intense competition",
+    "Acquisition integration risks",
+    "Innovation failure",
+    "Market competition pressures",
+    "Brand reputation damage",
+    "R&D investment risks",
+    "Strategic alliances performance",
+    "Growth target failure",
+    "Customer demand changes",
+    "Intellectual property protection risk"
+  ],
+  "Geopolitics": [
+    "Political unrest impact",
+    "Trade disputes impact",
+    "Regulatory changes impact",
+    "International operations risks",
+    "Climate change effects",
+    "Political condition changes"
+  ],
+  "Technology": [
+    "Technological changes",
+    "IT system vulnerabilities",
+    "Cloud services risks",
+    "AI use risks",
+    "IoT security risks",
+    "Service disruption risks",
+    "Network or system breaches",
+    "Content moderation risks"
+  ]
+}

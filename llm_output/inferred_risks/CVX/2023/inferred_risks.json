@@ -1,0 +1,26 @@
+{
+  "Market Risks": [
+    "Commodity price fluctuations"
+  ],
+  "Strategic Risks": [
+    "new factor: ESG target compliance risk"
+  ],
+  "Operational Risks": [
+    "Natural disasters impact",
+    "COVID-19 pandemic impact",
+    "Business disruption risks"
+  ],
+  "Technology Risks": [
+    "Cybersecurity breach risks"
+  ],
+  "Financial Risks": [
+    "new factor: Financial estimate inaccuracy risk"
+  ],
+  "Compliance Risks": [
+    "Legal proceedings exposure",
+    "Political condition changes",
+    "Tax regulation changes",
+    "Environmental regulation risks",
+    "ESG scrutiny impact"
+  ]
+}

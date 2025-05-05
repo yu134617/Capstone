@@ -1,0 +1,41 @@
+{
+  "Market Risks": [
+    "Customer concentration risk",
+    "Economic conditions impact",
+    "Intense competition",
+    "Currency exchange risks",
+    "Stock price volatility"
+  ],
+  "Operational Risks": [
+    "Supply chain disruptions",
+    "Product quality risks",
+    "Workforce retention challenges",
+    "Natural disasters impact",
+    "COVID-19 pandemic impact"
+  ],
+  "Strategic Risks": [
+    "Growth target failure",
+    "Brand reputation damage",
+    "Customer demand changes",
+    "Innovation failure"
+  ],
+  "Technology Risks": [
+    "IT system failures",
+    "Cybersecurity breach risks"
+  ],
+  "Compliance Risks": [
+    "Data protection laws",
+    "Interchange fee regulation",
+    "Regulatory compliance failure",
+    "Accounting standards changes",
+    "Tax liabilities exposure",
+    "Environmental regulation risks",
+    "Legal proceedings exposure"
+  ],
+  "Financial Risks": [
+    "new factor: Insurance coverage risks"
+  ],
+  "Geopolitics Risks": [
+    "Climate change effects"
+  ]
+}

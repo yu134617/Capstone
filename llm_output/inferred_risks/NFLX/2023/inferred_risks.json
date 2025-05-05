@@ -1,0 +1,43 @@
+{
+  "Strategic Risks": [
+    "Intense competition",
+    "Customer demand changes",
+    "Acquisition integration risks",
+    "Brand reputation damage",
+    "Intellectual property protection risk"
+  ],
+  "Operational Risks": [
+    "Third-party dependency",
+    "Business disruption risks",
+    "COVID-19 pandemic impact",
+    "Workforce retention challenges"
+  ],
+  "Compliance Risks": [
+    "Regulatory compliance failure",
+    "Legal proceedings exposure",
+    "Privacy law compliance",
+    "Tax regulation changes"
+  ],
+  "Financial Risks": [
+    "Revenue growth decline",
+    "Cost reduction challenges",
+    "Debt service capacity"
+  ],
+  "Technology Risks": [
+    "Cybersecurity breach risks",
+    "Cloud services risks",
+    "IT system failures",
+    "Service disruption risks",
+    "Data privacy compliance risks"
+  ],
+  "Market Risks": [
+    "Advertising revenue dependency",
+    "Stock price volatility"
+  ],
+  "Geopolitics Risks": [
+    "International operations risks"
+  ],
+  "new factor Risks": [
+    "new factor: Anti-takeover provisions risk"
+  ]
+}

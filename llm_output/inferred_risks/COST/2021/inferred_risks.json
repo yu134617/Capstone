@@ -1,0 +1,33 @@
+{
+  "Business and Operating Risks": [
+    "Economic conditions impact",
+    "Supply chain disruptions",
+    "Growth strategy failure",
+    "new factor: Membership growth risk",
+    "Product quality risks",
+    "IT system failures",
+    "Consumer trends misalignment",
+    "Cybersecurity breach",
+    "Payment-related risks",
+    "Product liability risks",
+    "Omnichannel development failure",
+    "Workforce retention challenges",
+    "Insurance coverage inadequacy"
+  ],
+  "Market and Other External Risks": [
+    "Market competition pressures",
+    "Economic conditions impact",
+    "Supply chain disruptions",
+    "Currency exchange risks",
+    "Natural disasters impact",
+    "COVID-19 pandemic impact",
+    "Climate change effects"
+  ],
+  "Legal and Regulatory Risks": [
+    "Regulatory compliance failure",
+    "Accounting standards changes",
+    "Tax regulation changes",
+    "Environmental regulation risks",
+    "Legal proceedings exposure"
+  ]
+}

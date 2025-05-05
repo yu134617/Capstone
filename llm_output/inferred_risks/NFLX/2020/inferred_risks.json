@@ -1,38 +1,29 @@
 {
-  "Business Risk": [
-    "Member Attraction and Retention",
-    "Competitive Offerings Impact",
-    "Content Commitments Cost",
-    "Content Acquisition Liability",
-    "Content Licensing Risks",
-    "Business Growth Management",
-    "International Operations Risks",
-    "Taxation Risks",
-    "Reputation Management",
-    "Marketing Changes Impact",
-    "Partner Device Dependence",
-    "System Disruption Risk",
-    "AWS Dependency Risk",
-    "Technology Failure Risk",
-    "Government Regulation Changes",
-    "Network Operator Changes",
-    "Privacy Concerns Impact",
-    "Data Breach Risk",
-    "Payment Processing Risk",
-    "Intellectual Property Protection",
-    "Intellectual Property Claims",
-    "Legal Proceedings Impact",
-    "Key Employee Retention",
-    "Labor Disputes Impact"
+  "Risks Related to Our Business": [
+    "Intense competition",
+    "Piracy-based video offerings",
+    "Fixed cost nature of content commitments",
+    "Content liability risks",
+    "Content licensing risks",
+    "Growth management challenges",
+    "International operations risks",
+    "Taxation risks",
+    "Brand reputation damage",
+    "Marketing channel risks",
+    "Partner device dependency",
+    "Cybersecurity breach",
+    "AWS dependency risk",
+    "Technology failure risks",
+    "Internet regulation changes",
+    "Network operator pricing changes",
+    "Privacy concerns",
+    "Data security breaches",
+    "Payment processing risks",
+    "Intellectual property protection risks"
   ],
-  "Financial Risk": [
-    "Additional Capital Needs",
-    "Substantial Indebtedness Risk",
-    "Cash Flow Insufficiency",
-    "Stock Price Volatility",
-    "Financial Estimates Accuracy"
-  ],
-  "Governance Risk": [
-    "Takeover Prevention Provisions"
+  "Risks Related to Our Stock Ownership": [
+    "Takeover defense provisions",
+    "Stock price volatility",
+    "Financial forecasting risks"
   ]
 }

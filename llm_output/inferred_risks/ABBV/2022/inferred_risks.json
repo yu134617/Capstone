@@ -1,0 +1,35 @@
+{
+  "Operational Risks": [
+    "COVID-19 pandemic impact",
+    "Supply chain disruptions",
+    "Third-party dependency",
+    "Manufacturing disruption risks",
+    "Product defects impact",
+    "Business disruption risks",
+    "Cybersecurity breach"
+  ],
+  "Strategic Risks": [
+    "Intellectual property protection risk",
+    "Third-party IP infringement",
+    "Key product dependency",
+    "R&D investment risks",
+    "Biologics development risks",
+    "Biosimilar competition",
+    "Acquisition integration risks",
+    "new factor: Pipeline collaboration risks",
+    "Competition intensification"
+  ],
+  "Financial Risks": [
+    "Debt service capacity",
+    "Dividend payment uncertainty",
+    "Stock dilution risk"
+  ],
+  "Compliance Risks": [
+    "Regulatory compliance failure",
+    "Healthcare fraud exposure",
+    "Anti-corruption laws risks"
+  ],
+  "Market Risks": [
+    "Pricing pressure risks"
+  ]
+}

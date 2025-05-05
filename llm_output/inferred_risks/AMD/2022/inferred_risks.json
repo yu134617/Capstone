@@ -1,0 +1,43 @@
+{
+  "Market Risks": [
+    "Economic conditions impact",
+    "Market volatility risk",
+    "Currency exchange risks",
+    "Commodity price fluctuations",
+    "Supply and demand imbalance"
+  ],
+  "Strategic Risks": [
+    "Intense competition",
+    "Customer concentration risk",
+    "COVID-19 pandemic impact",
+    "Product lifecycle volatility",
+    "Cyclical industry risks"
+  ],
+  "Operational Risks": [
+    "Third-party manufacturing dependency",
+    "Supply chain disruptions",
+    "Production yield failures",
+    "Technology development risks",
+    "Semi-custom product dependency",
+    "Security vulnerabilities",
+    "IT system failures",
+    "Inventory management challenges",
+    "Third-party IP dependency",
+    "Microsoft platform dependency"
+  ],
+  "Compliance Risks": [
+    "Export control regulations",
+    "Tax asset realization risk",
+    "Environmental regulation risks",
+    "Litigation exposure"
+  ],
+  "M&A Risks": [
+    "Acquisition integration risks",
+    "Regulatory approval uncertainty",
+    "Goodwill impairment risk"
+  ],
+  "Financial Risks": [
+    "Debt covenant restrictions",
+    "Liquidity constraints"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Market Risks": [
+    "Economic conditions impact"
+  ],
+  "Operational Risks": [
+    "Third-party dependency"
+  ],
+  "Strategic Risks": [
+    "new factor: Distribution channel risks"
+  ],
+  "Technology Risks": [
+    "IT system vulnerabilities",
+    "Cybersecurity breach"
+  ],
+  "Financial Risks": [
+    "Stock price volatility"
+  ],
+  "Geopolitics Risks": [
+    "Global operational risks",
+    "Trade disputes impact"
+  ],
+  "Compliance Risks": [
+    "Legal proceedings exposure"
+  ]
+}

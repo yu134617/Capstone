@@ -11,7 +11,7 @@ from sec_api import ExtractorApi
 
 set_identity("email@example.com")
 dl = Downloader("MyCompanyName", "email@example.com")
-API_KEY = '4a55aa1e96941ed7292019011b2b53f43b8766be167fcdb785ab748b32293eb1'  # SEC API KEY
+API_KEY = 'fc25bec1ad4dba775cd8d0934e3ab93f03241671d4b1b57e6004856f6841d8a5'  # SEC API KEY
 extractorApi = ExtractorApi(API_KEY)
 
 
@@ -25,9 +25,20 @@ def get_risk_item(ticker, year):
 
     metadatas = dl.get_filing_metadatas(CompanyAndAccessionNumber(ticker_or_cik=cik, accession_number=accession_no))
     url = metadatas[0].primary_doc_url
-    item_1_a_html = extractorApi.get_section(url, '1A', 'html')
 
-    return item_1_a_html
+    max_retries = 10
+    retries = 0
+    while retries < max_retries:
+        try:
+            item_1_a_html = extractorApi.get_section(url, '1A', 'html')
+            return item_1_a_html
+
+        except ConnectionError as e:
+            retries += 1
+            print(f"Connection error: {e}. Retrying ({retries}/{max_retries})...")
+            time.sleep(1)
+    # If maximum retry attempts are reached, raise an exception
+    raise ConnectionError(f"Failed to retrieve data after {max_retries} attempts.")
 
 
 def save_risk_item(risk_item, ticker, year):
@@ -45,7 +56,7 @@ def process_stock_list(excel_path, year):
     tickers = df['Ticker'].tolist()
 
     for ticker in tickers:
-        base_dir = f"sec-edgar-filings/{year[:4]}/{ticker}"
+        base_dir = f"sec-edgar-filings/{ticker}/{year[:4]}"
         filename = f"{base_dir}/risk_item.html"
 
         # Check if the file already exists

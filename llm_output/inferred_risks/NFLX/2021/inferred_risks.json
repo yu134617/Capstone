@@ -1,0 +1,49 @@
+{
+  "Risks Related to Our Business": [
+    "COVID-19 pandemic impact",
+    "Member retention challenges",
+    "Competition Intensification",
+    "Content liability risks",
+    "Business expansion challenges",
+    "Reputation damage risk",
+    "Marketing effectiveness risk",
+    "Partner dependency risk",
+    "Payment processing risk"
+  ],
+  "Risks Related to Intellectual Property": [
+    "Content licensing risks",
+    "Trademark protection risks",
+    "Intellectual property claims"
+  ],
+  "Risks Related to Information Technology": [
+    "Cybersecurity breach",
+    "AWS dependency risk",
+    "Technology failure risk",
+    "Network access risks"
+  ],
+  "Risks Related to Privacy": [
+    "Data protection laws",
+    "Data security breaches"
+  ],
+  "Risks Related to Liquidity": [
+    "Fixed cost commitments",
+    "Capital raising risks",
+    "Debt service capacity"
+  ],
+  "Risks Related to International Operations": [
+    "Regulatory compliance failure",
+    "Tax liabilities exposure"
+  ],
+  "Risks Related to Human Resources": [
+    "Key personnel dependency",
+    "Labor disputes impact"
+  ],
+  "Risks Related to Our Stock Ownership": [
+    "Takeover defense risks",
+    "Stock price volatility",
+    "Financial forecasting risks"
+  ],
+  "General Risk Factors": [
+    "Legal proceedings exposure"
+  ]
+}

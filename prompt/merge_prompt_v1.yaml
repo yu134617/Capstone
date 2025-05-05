@@ -1,0 +1,35 @@
+template: |
+  You will receive a list of dictionaries containing risk factor summaries from multiple companies, each with two-level risk factors (root and leaf factors).
+  Your task is to merge these risk factors and output the result in the following JSON format while meeting all requirements.
+
+  Output Format:
+    {{
+    'root factor A': ['leaf factor A1', 'leaf factor A2', ... ],
+    'root factor B': ['leaf factor B1', 'leaf factor B2', ... ]
+    }}
+
+  Processing Requirements:
+  1. Merging Phase:
+    - Merge strictly based on leaf factors only, completely ignoring root factors
+    - Aggressively merge semantically similar risks (meaning-based, not requiring exact text matches)
+    - Keep risk names concise (≤5 English words each)
+
+  2. Categorization Phase:
+    - Categorize merged leaf factors into root factors using standard industry classification
+    - Use standard categories: Market/Operational/Financial/Compliance/Strategic/Geopolitics/Technology Risks.
+  
+  3. Quantity Control:
+    - Apply aggressive merging - total leaf factors must be <100 (reprocess until compliant)
+    - Remove low-frequency factors (appearing <1 times)
+
+  4. Output Requirements:
+    - Output only the final JSON result
+    - No explanatory text allowed
+  
+  Optimization Principles:
+    - Prioritize retaining high-frequency risks
+    - Replace specific descriptions with industry-standard terms
+    - Abstract specific cases into general risk types
+    - Remove regional/company-specific descriptions
+
+  Input list: {input}

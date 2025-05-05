@@ -1,0 +1,26 @@
+{
+  "Operational Risks": [
+    "COVID-19 pandemic impact",
+    "Pharmaceutical research risks",
+    "Intellectual property protection risk",
+    "Intense competition",
+    "IT system failures",
+    "Economic conditions impact",
+    "Product defects impact",
+    "Manufacturing disruption risks",
+    "Third-party dependency"
+  ],
+  "Compliance Risks": [
+    "Regulatory compliance failure",
+    "Tax regulation changes",
+    "Legal proceedings exposure"
+  ],
+  "Financial Risks": [
+    "Foreign exchange fluctuations",
+    "Tax liabilities exposure"
+  ],
+  "Strategic Risks": [
+    "Innovation failure",
+    "Market competition pressures"
+  ]
+}

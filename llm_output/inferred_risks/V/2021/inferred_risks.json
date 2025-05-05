@@ -1,0 +1,33 @@
+{
+  "Regulatory Risks": [
+    "Regulatory compliance failure",
+    "Privacy law compliance",
+    "Tax regulation changes",
+    "Government regulation impact",
+    "new factor: Interchange fee regulation"
+  ],
+  "Litigation Risks": [
+    "Legal proceedings exposure",
+    "Antitrust law risks"
+  ],
+  "Business Risks": [
+    "Intense competition",
+    "Client dependency risk",
+    "Merchant acceptance risk",
+    "Brand reputation damage",
+    "Economic conditions impact",
+    "new factor: Settlement indemnification risk"
+  ],
+  "Technology and Cybersecurity Risks": [
+    "Technological changes",
+    "IT system vulnerabilities",
+    "Cybersecurity breach",
+    "Data security breaches"
+  ],
+  "Structural and Organizational Risks": [
+    "Acquisition integration risks",
+    "Key personnel dependency",
+    "new factor: Stock conversion impact",
+    "Corporate governance risk"
+  ]
+}

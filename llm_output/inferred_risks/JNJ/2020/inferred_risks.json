@@ -1,37 +1,31 @@
 {
-  "Market Risk": [
-    "Global sales impact",
-    "Pricing pressures",
+  "Market Risks": [
+    "Currency exchange risks",
+    "Pricing pressure risks"
+  ],
+  "Compliance Risks": [
+    "Legal proceedings exposure",
+    "Regulatory compliance failure",
+    "Anti-corruption laws risks"
+  ],
+  "Operational Risks": [
+    "Product quality risks",
+    "Manufacturing disruption risks",
+    "Third-party dependency",
+    "Counterfeit products impact",
+    "Cybersecurity breach"
+  ],
+  "Financial Risks": [
+    "Tax liabilities exposure"
+  ],
+  "Strategic Risks": [
     "Intense competition",
-    "Product reliability concerns",
-    "Counterfeit products"
+    "Innovation failure"
   ],
-  "Legal and Regulatory Risk": [
-    "Legal proceedings",
-    "Regulatory scrutiny",
-    "Anti-bribery regulations",
-    "Intellectual property challenges",
-    "Tax law changes"
+  "Technology Risks": [
+    "new factor: Intellectual property protection risk"
   ],
-  "Operational Risk": [
-    "Manufacturing delays",
-    "Supply chain disruptions",
-    "Third-party manufacturing",
-    "Information security breach",
-    "Foreign currency exchange"
-  ],
-  "Strategic Risk": [
-    "Innovation failure",
-    "Product development delays",
-    "Intellectual property rights",
-    "Global operations risks",
-    "Reputation damage"
-  ],
-  "Financial Risk": [
-    "Tax liabilities",
-    "Currency devaluation",
-    "Inflation risks",
-    "Financial volatility",
-    "Investment portfolio fluctuations"
+  "Geopolitics Risks": [
+    "Political unrest impact"
   ]
 }

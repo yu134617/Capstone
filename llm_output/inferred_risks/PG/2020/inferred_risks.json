@@ -1,62 +1,28 @@
 {
-  "Global Operations": [
-    "Foreign currency fluctuations",
-    "Currency exchange controls",
-    "Localized volatility"
+  "Geopolitics": [
+    "Currency exchange risks",
+    "Political unrest impact"
   ],
-  "Economic Conditions": [
-    "Cost fluctuations and pressures"
+  "Market": [
+    "Economic conditions impact"
   ],
-  "Financial Volatility": [
-    "Disruptions in credit markets",
-    "Credit ratings changes"
+  "Financial": [
+    "Credit rating downgrade risk"
   ],
-  "Supply Chain": [
-    "Global supply chain disruptions"
-  ],
-  "Product Development": [
-    "Product innovation failure",
-    "Marketing innovation failure"
-  ],
-  "Competition": [
-    "Intense market competition",
-    "Emerging retail trends"
-  ],
-  "Customer Risks": [
-    "Customer relationships change",
-    "Customer demand shifts"
-  ],
-  "Reputation Risks": [
+  "Operational": [
+    "Supply chain disruptions",
+    "Cost reduction challenges",
+    "Innovation failure",
+    "Market competition pressures",
+    "Customer demand changes",
     "Brand reputation damage",
-    "Company reputation erosion"
-  ],
-  "Third-party Risks": [
-    "Third-party dependency risks"
-  ],
-  "Technology Risks": [
-    "Cybersecurity breach risk",
-    "IT system failures"
-  ],
-  "Political Risks": [
-    "Changing political conditions"
-  ],
-  "Legal and Regulatory": [
-    "Compliance with laws",
-    "Regulatory changes impact"
-  ],
-  "Taxation": [
-    "Tax regulations changes",
-    "Tax disputes resolution"
-  ],
-  "Acquisition Risks": [
+    "Third-party dependency",
+    "Cybersecurity breach",
+    "Political condition changes",
+    "Regulatory compliance failure",
+    "Tax regulation changes",
     "Acquisition integration risks",
-    "Joint venture risks"
-  ],
-  "Human Resources": [
-    "Productivity improvements failure",
-    "Key talent retention"
-  ],
-  "Operational Risks": [
-    "Disease outbreak impact"
+    "Workforce retention challenges",
+    "new factor: Disease outbreak impact"
   ]
 }

@@ -1,0 +1,83 @@
+{
+  "Market": [
+    "Economic conditions impact",
+    "Market volatility risk",
+    "Currency exchange risks",
+    "Commodity price fluctuations",
+    "Stock price volatility",
+    "Advertising revenue dependency",
+    "Housing market risk",
+    "Supply and demand imbalance",
+    "Customer concentration risk",
+    "Demand fluctuation risks"
+  ],
+  "Operational": [
+    "Supply chain disruptions",
+    "IT system failures",
+    "Manufacturing disruption risks",
+    "Product defects impact",
+    "Inventory management challenges",
+    "Cybersecurity breach risks",
+    "Third-party dependency",
+    "Business disruption risks",
+    "Natural disasters impact",
+    "Workforce retention challenges",
+    "COVID-19 pandemic impact",
+    "Service disruption risks",
+    "Data security breaches",
+    "Product quality risks",
+    "Key personnel dependency"
+  ],
+  "Financial": [
+    "Quarterly results fluctuations",
+    "Tax liabilities exposure",
+    "Debt service capacity",
+    "Investment portfolio fluctuations",
+    "Cash generation risks",
+    "Dividend sustainability risk",
+    "Credit rating downgrade risk",
+    "Revenue growth decline",
+    "Cost reduction challenges"
+  ],
+  "Compliance": [
+    "Regulatory compliance failure",
+    "Privacy law compliance",
+    "Data protection laws",
+    "Environmental regulation risks",
+    "Legal proceedings exposure",
+    "ESG scrutiny impact",
+    "Tax regulation changes",
+    "Accounting standards changes",
+    "Interchange fee regulation"
+  ],
+  "Strategic": [
+    "Intense competition",
+    "Acquisition integration risks",
+    "Innovation failure",
+    "Brand reputation damage",
+    "R&D investment risks",
+    "Customer demand changes",
+    "Intellectual property protection risk",
+    "Market competition pressures",
+    "Strategic alliances performance",
+    "Growth target failure"
+  ],
+  "Geopolitics": [
+    "International operations risks",
+    "Climate change effects",
+    "Political condition changes",
+    "Regulatory changes impact",
+    "Political unrest impact",
+    "Trade disputes impact"
+  ],
+  "Technology": [
+    "Cybersecurity breach risks",
+    "Technological changes",
+    "Cloud services risks",
+    "AI use risks",
+    "Service disruption risks",
+    "Content moderation risks",
+    "Data privacy compliance risks",
+    "IT system vulnerabilities"
+  ]
+}

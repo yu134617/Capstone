@@ -1,0 +1,34 @@
+{
+  "Strategic Risks": [
+    "Intense competition",
+    "Customer demand changes",
+    "Brand reputation damage",
+    "Strategic alliances performance",
+    "Acquisition integration risks"
+  ],
+  "Operational Risks": [
+    "Workforce retention challenges",
+    "IT system failures",
+    "Supply chain disruptions",
+    "Cybersecurity breach",
+    "Product quality risks",
+    "Product defects impact",
+    "Business disruption risks",
+    "Key personnel dependency",
+    "Inventory management challenges"
+  ],
+  "Compliance Risks": [
+    "Regulatory compliance failure",
+    "Privacy law compliance",
+    "Legal proceedings exposure"
+  ],
+  "Market Risks": [
+    "Housing market risk",
+    "Commodity price fluctuations",
+    "COVID-19 pandemic impact"
+  ],
+  "Financial Risks": [
+    "Cost reduction challenges",
+    "Tax liabilities exposure"
+  ]
+}

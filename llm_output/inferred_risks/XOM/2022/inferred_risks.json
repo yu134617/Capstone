@@ -1,0 +1,31 @@
+{
+  "Market Risks": [
+    "Supply and demand imbalance",
+    "Economic conditions impact",
+    "new factor: Alternative energy demand risk",
+    "new factor: Supply source development risk",
+    "Currency exchange risks",
+    "Interest rate risk"
+  ],
+  "Geopolitics Risks": [
+    "Regulatory changes impact",
+    "new factor: Sanctions compliance risk",
+    "Legal proceedings exposure",
+    "Environmental regulation risks",
+    "Policy Change"
+  ],
+  "Operational Risks": [
+    "COVID-19 pandemic impact",
+    "Resource development failure",
+    "Third-party dependency",
+    "Cost reduction challenges",
+    "Natural disasters impact",
+    "Cybersecurity breach",
+    "Insurance coverage gaps"
+  ],
+  "Strategic Risks": [
+    "R&D investment risks",
+    "Intense competition",
+    "Brand reputation damage"
+  ]
+}

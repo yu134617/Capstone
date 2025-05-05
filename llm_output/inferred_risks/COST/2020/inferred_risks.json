@@ -1,34 +1,31 @@
 {
   "Business and Operating Risks": [
-    "Dependence on U.S. and Canadian Operations",
-    "Growth Strategy Implementation Failure",
-    "Membership Growth and Loyalty Risk",
-    "Merchandise Distribution Disruptions",
-    "Consumer Trends Identification Failure",
-    "IT Systems Performance Risk",
-    "Data Privacy and Security Risk",
-    "Payment-Related Risks",
-    "Product Liability Risks",
-    "Omnichannel Experience Development Risk",
-    "Employee Retention and Training Risk",
-    "Insurance Coverage Limitations"
+    "Economic conditions impact",
+    "Supply chain disruptions",
+    "Growth target failure",
+    "Workforce retention challenges",
+    "Brand reputation damage",
+    "Product quality risks",
+    "IT system failures",
+    "Cybersecurity breach",
+    "new factor: Payment-related risks",
+    "new factor: Omnichannel experience failure",
+    "Key personnel dependency"
   ],
   "Market and Other External Risks": [
-    "Strong Competition Risk",
-    "Economic Factors Impact",
-    "Supplier Reliability Risk",
-    "Foreign Exchange Rate Fluctuations",
-    "Natural Disasters Impact",
-    "COVID-19 Pandemic Impact",
-    "Climate Change Factors",
-    "Stock Price Volatility"
+    "Market competition pressures",
+    "Economic conditions impact",
+    "Supply chain disruptions",
+    "Currency exchange risks",
+    "Natural disasters impact",
+    "new factor: COVID-19 pandemic impact",
+    "Climate change effects"
   ],
   "Legal and Regulatory Risks": [
-    "International Operations Regulatory Risk",
-    "Sarbanes-Oxley Compliance Risk",
-    "Accounting Standards Changes",
-    "Additional Tax Liabilities",
-    "Environmental Regulations Compliance",
-    "Legal Proceedings Exposure"
+    "Regulatory compliance failure",
+    "Accounting standards changes",
+    "Tax liabilities exposure",
+    "Environmental regulation risks",
+    "Legal proceedings exposure"
   ]
 }

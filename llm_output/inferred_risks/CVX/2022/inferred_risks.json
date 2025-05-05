@@ -1,0 +1,26 @@
+{
+  "Operational Risks": [
+    "COVID-19 pandemic impact",
+    "Resource development failure",
+    "Business disruption risks",
+    "Cybersecurity breach",
+    "new factor: Operational hazard risks",
+    "Insurance coverage gaps"
+  ],
+  "Market Risks": [
+    "Commodity price fluctuations"
+  ],
+  "Geopolitics Risks": [
+    "Political unrest impact"
+  ],
+  "Compliance Risks": [
+    "Legal proceedings exposure",
+    "Tax regulation changes",
+    "Environmental regulation risks",
+    "ESG scrutiny impact",
+    "new factor: ESG target achievement risk"
+  ],
+  "Financial Risks": [
+    "new factor: Management estimate uncertainty"
+  ]
+}

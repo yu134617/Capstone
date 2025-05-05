@@ -1,34 +1,31 @@
 {
-  "Operational Risk": [
-    "Medical Cost Management",
-    "Data Integrity Failure",
-    "System Integration Failure",
-    "Technology Product Failure",
-    "Supply Chain Disruption",
-    "Physician Relationship Risk"
+  "Operational Risks": [
+    "IT system failures",
+    "Cybersecurity breach",
+    "Data security breaches"
   ],
-  "Regulatory Risk": [
-    "Government Regulation Changes",
-    "Healthcare Program Risks",
-    "International Regulation Risks",
-    "Privacy Law Compliance",
-    "Pharmacy Regulation Risks"
+  "Compliance Risks": [
+    "Regulatory compliance failure",
+    "Privacy law compliance",
+    "Data protection laws"
   ],
-  "Financial Risk": [
-    "Investment Portfolio Losses",
-    "Intangible Asset Impairment",
-    "Subsidiary Fund Restrictions",
-    "Credit Rating Downgrade"
+  "Financial Risks": [
+    "Revenue growth decline",
+    "Gross margin pressures",
+    "Investment portfolio fluctuations"
   ],
-  "Strategic Risk": [
-    "Competitive Market Pressure",
-    "Acquisition Integration Risk",
-    "Producer Network Dependency",
-    "Economic Condition Impact"
+  "Strategic Risks": [
+    "Acquisition integration risks",
+    "Market competition pressures",
+    "Brand reputation damage"
   ],
-  "Legal Risk": [
-    "Litigation Exposure",
-    "Intellectual Property Risk",
-    "Contract Dispute Risk"
+  "Technology Risks": [
+    "IT system vulnerabilities",
+    "Cloud services risks",
+    "Service disruption risks"
+  ],
+  "Market Risks": [
+    "Economic conditions impact",
+    "Interest rate risk"
   ]
 }

@@ -1,0 +1,47 @@
+{
+  "Geopolitics Risks": [
+    "Economic conditions impact",
+    "Political unrest impact"
+  ],
+  "Market Risks": [
+    "Market competition pressures"
+  ],
+  "Strategic Risks": [
+    "Innovation failure",
+    "Retail landscape adaptation risk",
+    "Emerging market expansion risk"
+  ],
+  "Operational Risks": [
+    "Productivity initiative risks",
+    "Workforce retention challenges",
+    "Supply chain disruptions"
+  ],
+  "Compliance Risks": [
+    "COVID-19 pandemic impact"
+  ],
+  "Technology Risks": [
+    "Digital transformation failure"
+  ],
+  "Financial Risks": [
+    "Currency exchange risks",
+    "Input cost inflation"
+  ],
+  "Regulatory Risks": [
+    "Tax regulation changes",
+    "Packaging regulation changes"
+  ],
+  "Reputational Risks": [
+    "Product safety concerns",
+    "Health perception risks"
+  ],
+  "Legal Risks": [
+    "Litigation exposure"
+  ],
+  "Environmental Risks": [
+    "Climate change effects",
+    "Water scarcity impact"
+  ],
+  "Supply Chain Risks": [
+    "Bottling partner dependency"
+  ]
+}

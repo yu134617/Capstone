@@ -1,0 +1,40 @@
+{
+  "Market Risks": [
+    "Competition Intensification",
+    "new factor: Third-party manufacturing dependency"
+  ],
+  "Operational Risks": [
+    "Manufacturing disruption risks",
+    "Product defects impact",
+    "Product quality risks",
+    "Supply chain disruptions",
+    "Inventory management challenges",
+    "Key personnel dependency",
+    "Business disruption risks",
+    "IT system failures"
+  ],
+  "Financial Risks": [
+    "Revenue growth decline",
+    "Debt service capacity",
+    "Cash generation risks",
+    "Pricing pressure risks"
+  ],
+  "Compliance Risks": [
+    "Regulatory compliance failure",
+    "Legal proceedings exposure",
+    "Tax liabilities exposure"
+  ],
+  "Strategic Risks": [
+    "Innovation failure",
+    "Acquisition integration risks",
+    "Brand reputation damage"
+  ],
+  "Geopolitics Risks": [
+    "Political unrest impact",
+    "Trade disputes impact"
+  ],
+  "Technology Risks": [
+    "Technological changes",
+    "IT system vulnerabilities"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "Market Risks": [
+    "Market volatility risk",
+    "Interest rate risk",
+    "Currency exchange risks",
+    "Commodity price fluctuations",
+    "Housing market risk"
+  ],
+  "Operational Risks": [
+    "IT system failures",
+    "Cybersecurity breach",
+    "Data security breaches",
+    "Third-party dependency",
+    "Business disruption risks",
+    "COVID-19 pandemic impact"
+  ],
+  "Financial Risks": [
+    "Credit rating downgrade risk",
+    "Debt service capacity",
+    "Cash generation risks"
+  ],
+  "Compliance Risks": [
+    "Regulatory compliance failure",
+    "Privacy law compliance",
+    "Data protection laws",
+    "Legal proceedings exposure",
+    "Accounting standards changes"
+  ],
+  "Strategic Risks": [
+    "Intense competition",
+    "Brand reputation damage",
+    "Customer demand changes"
+  ],
+  "Geopolitics Risks": [
+    "Political unrest impact",
+    "Trade disputes impact",
+    "Climate change effects"
+  ],
+  "Technology Risks": [
+    "IT system vulnerabilities",
+    "Service disruption risks"
+  ]
+}

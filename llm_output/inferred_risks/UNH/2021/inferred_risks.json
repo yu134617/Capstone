@@ -1,0 +1,31 @@
+{
+  "Operational Risks": [
+    "COVID-19 pandemic impact",
+    "IT system failures",
+    "Cybersecurity breach",
+    "Supply chain disruptions",
+    "Key personnel dependency"
+  ],
+  "Financial Risks": [
+    "Revenue growth decline",
+    "Investment portfolio fluctuations",
+    "Credit rating downgrade risk",
+    "Debt service capacity"
+  ],
+  "Strategic Risks": [
+    "Intense competition",
+    "Acquisition integration risks",
+    "Innovation failure",
+    "Brand reputation damage"
+  ],
+  "Compliance Risks": [
+    "Regulatory compliance failure",
+    "Privacy law compliance",
+    "Data protection laws",
+    "Legal proceedings exposure"
+  ],
+  "Market Risks": [
+    "Economic conditions impact",
+    "Pricing pressure risks"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "Industry and Markets Risks": [
+    "Market competition pressures",
+    "Innovation failure"
+  ],
+  "Supply and Manufacturing Risks": [
+    "Supply chain disruptions",
+    "Third-party dependency",
+    "Product quality risks"
+  ],
+  "Operating Business Risks": [
+    "Inventory management challenges",
+    "Cybersecurity breach",
+    "Business disruption risks",
+    "COVID-19 pandemic impact",
+    "Acquisition integration risks",
+    "Key personnel dependency",
+    "Quarterly results fluctuations"
+  ],
+  "Regulatory and Legal Risks": [
+    "Intellectual property protection risk",
+    "Privacy law compliance",
+    "Tax liabilities exposure",
+    "Legal proceedings exposure"
+  ],
+  "Financial Risks": [
+    "Debt service capacity"
+  ]
+}

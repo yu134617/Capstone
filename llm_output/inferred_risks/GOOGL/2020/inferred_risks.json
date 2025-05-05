@@ -1,80 +1,51 @@
 {
-  "Revenue Concentration Risk": [
-    "Advertising Revenue Dependency"
+  "Market Risks": [
+    "Advertising revenue dependency",
+    "Economic conditions impact"
   ],
-  "Competition Risk": [
-    "Intense Competition",
-    "Innovation Pressure"
+  "Strategic Risks": [
+    "Intense competition",
+    "Innovation failure",
+    "R&D investment risks",
+    "Brand reputation damage"
   ],
-  "Investment Risk": [
-    "New Business Investment Risk",
-    "Hardware Market Competition",
-    "Cloud Services Competition",
-    "Health and Life Sciences Competition"
+  "Financial Risks": [
+    "Revenue growth decline",
+    "Gross margin pressures",
+    "Foreign exchange fluctuations"
   ],
-  "Financial Performance Risk": [
-    "Revenue Growth Decline",
-    "Operating Margin Pressure"
+  "Operational Risks": [
+    "Supply chain disruptions",
+    "Product defects impact",
+    "IT system failures",
+    "Key personnel dependency",
+    "Cybersecurity breach",
+    "Data security breaches",
+    "Third-party dependency",
+    "Business disruption risks",
+    "Natural disasters impact"
   ],
-  "Intellectual Property Risk": [
-    "IP Protection Challenges",
-    "Trademark Dilution"
+  "Compliance Risks": [
+    "Regulatory compliance failure",
+    "Privacy law compliance",
+    "Data protection laws",
+    "Legal proceedings exposure",
+    "Tax regulation changes"
   ],
-  "Brand Risk": [
-    "Brand Reputation Damage",
-    "Misinformation Impact"
+  "Technology Risks": [
+    "Technological changes",
+    "IT system vulnerabilities",
+    "Cloud services risks",
+    "AI use risks",
+    "Service disruption risks"
   ],
-  "Supply Chain Risk": [
-    "Manufacturing Dependence",
-    "Supply Chain Disruptions",
-    "Component Shortages"
+  "Geopolitics Risks": [
+    "Trade disputes impact",
+    "International operations risks",
+    "Political condition changes"
   ],
-  "Technology Risk": [
-    "IT System Failures",
-    "ERP Implementation Risk"
-  ],
-  "International Operations Risk": [
-    "Foreign Exchange Risk",
-    "Regulatory Compliance",
-    "Brexit Impact"
-  ],
-  "Industry Risk": [
-    "Device Fragmentation",
-    "Internet Access Restrictions"
-  ],
-  "Regulatory Risk": [
-    "Increased Scrutiny",
-    "Policy Changes"
-  ],
-  "Legal Risk": [
-    "Litigation Exposure",
-    "Content Liability"
-  ],
-  "Privacy and Security Risk": [
-    "Data Privacy Concerns",
-    "Security Breaches",
-    "Content Abuse"
-  ],
-  "Acquisition Risk": [
-    "Integration Challenges",
-    "Management Distraction"
-  ],
-  "Human Resource Risk": [
-    "Key Personnel Dependency",
-    "Talent Retention"
-  ],
-  "Valuation Risk": [
-    "Non-Marketable Investments Volatility"
-  ],
-  "Tax Risk": [
-    "Tax Rate Changes",
-    "International Tax Compliance"
-  ],
-  "Stock Volatility Risk": [
-    "Stock Price Fluctuations"
-  ],
-  "Governance Risk": [
-    "Concentrated Ownership",
-    "Anti-Takeover Provisions"
+  "new factor Risks": [
+    "new factor: Intellectual property risks",
+    "new factor: Content moderation risks"
   ]
 }

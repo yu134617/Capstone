@@ -1,0 +1,47 @@
+{
+  "Strategic Risks": [
+    "Innovation failure",
+    "Intense competition"
+  ],
+  "Operational Risks": [
+    "Inventory management challenges",
+    "Third-party dependency",
+    "Product defects impact",
+    "Business disruption risks",
+    "Workforce retention challenges",
+    "IT system failures",
+    "COVID-19 pandemic impact"
+  ],
+  "Geopolitics Risks": [
+    "International operations risks",
+    "Climate change effects"
+  ],
+  "Strategic Risks (Cont.)": [
+    "Acquisition integration risks"
+  ],
+  "Operational Risks (Cont.)": [
+    "Cybersecurity breach"
+  ],
+  "Market Risks": [
+    "Customer demand changes"
+  ],
+  "Financial Risks": [
+    "Quarterly results fluctuations"
+  ],
+  "Compliance Risks": [
+    "Regulatory compliance failure"
+  ],
+  "Technology Risks": [
+    "AI use risks"
+  ],
+  "Compliance Risks (Cont.)": [
+    "ESG scrutiny impact",
+    "Data protection laws",
+    "Legal proceedings exposure",
+    "Corporate governance risk"
+  ],
+  "Financial Risks (Cont.)": [
+    "Tax liabilities exposure",
+    "Debt service capacity"
+  ]
+}

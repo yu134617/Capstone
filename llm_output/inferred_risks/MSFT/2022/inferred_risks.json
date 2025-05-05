@@ -1,0 +1,37 @@
+{
+  "Strategic and Competitive Risks": [
+    "Intense competition risks",
+    "Cloud services execution risks",
+    "Business model competition risks"
+  ],
+  "Risks Relating to Evolution of Business": [
+    "Investment return uncertainty",
+    "Acquisition integration risks",
+    "Goodwill impairment risks"
+  ],
+  "Cybersecurity and Privacy Risks": [
+    "Cybersecurity breach risks",
+    "Data privacy compliance risks",
+    "Platform abuse risks"
+  ],
+  "Operational Risks": [
+    "Service outage risks",
+    "Product quality risks",
+    "Supply chain disruption risks"
+  ],
+  "Legal and Regulatory Risks": [
+    "Antitrust compliance risks",
+    "Trade regulation risks",
+    "Tax litigation risks"
+  ],
+  "Intellectual Property Risks": [
+    "Source code protection risks",
+    "IP valuation decline risks",
+    "Patent infringement risks"
+  ],
+  "General Business Risks": [
+    "Reputation damage risks",
+    "Economic downturn impact",
+    "Workforce retention risks"
+  ]
+}

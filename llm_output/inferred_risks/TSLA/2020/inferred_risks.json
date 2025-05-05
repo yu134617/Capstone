@@ -1,74 +1,45 @@
 {
-  "Operational Risk": [
-    "Production Delays",
-    "Manufacturing Complications",
-    "Supply Chain Constraints",
-    "High-Volume Production Challenges",
-    "New Manufacturing Technologies",
-    "Design Feature Challenges",
-    "Product Launch Delays",
-    "Facility Expansion Delays",
-    "International Operations Risks",
-    "Material Cost Increases",
-    "Component Shortages",
-    "Battery Cell Supply Risks",
-    "Product Defects",
-    "Software Defects",
-    "Product Liability Claims",
-    "Insurance Coverage Gaps",
-    "IT System Failures",
-    "Cybersecurity Threats",
-    "Data Breaches",
-    "Union Activities",
-    "Natural Disasters",
-    "Health Epidemics"
+  "Operational Risks": [
+    "Manufacturing disruption risks",
+    "Supply chain disruptions",
+    "Product defects impact",
+    "Key personnel dependency",
+    "IT system failures",
+    "Business disruption risks",
+    "Natural disasters impact",
+    "Product quality risks",
+    "Workforce retention challenges"
   ],
-  "Market Risk": [
-    "Consumer Adoption Uncertainty",
-    "Market Cyclicality",
-    "Competitive Pressures",
-    "Negative Publicity",
-    "Brand Damage",
-    "Demand Forecasting Errors",
-    "Pricing Strategy Risks",
-    "Sales Model Perception",
-    "Leasing Program Risks",
-    "Resale Value Guarantees",
-    "Incentive Reductions",
-    "Tariff Impacts",
-    "Currency Fluctuations"
+  "Strategic Risks": [
+    "Intense competition",
+    "Brand reputation damage",
+    "Innovation failure",
+    "Growth target failure",
+    "Customer demand changes"
   ],
-  "Financial Risk": [
-    "Indebtedness Burden",
-    "Cash Flow Volatility",
-    "Convertible Notes Risks",
-    "Debt Covenant Restrictions",
-    "Capital Raising Challenges",
-    "Warranty Reserves Inadequacy",
-    "Tax Credit Uncertainties",
-    "Investment Returns Volatility",
-    "Stock Price Volatility"
+  "Financial Risks": [
+    "Revenue growth decline",
+    "Gross margin pressures",
+    "Debt service capacity",
+    "Cash generation risks",
+    "Cost reduction challenges"
   ],
-  "Strategic Risk": [
-    "Key Employee Dependence",
-    "Management Retention",
-    "CEO Time Allocation",
-    "Growth Management",
-    "Technology Innovation Risks",
-    "Autopilot Development Risks",
-    "Self-Driving Regulation",
-    "Intellectual Property Risks",
-    "Acquisition Integration",
-    "Direct Sales Model Legal Risks"
+  "Compliance Risks": [
+    "Regulatory compliance failure",
+    "Privacy law compliance",
+    "Environmental regulation risks",
+    "Legal proceedings exposure",
+    "Accounting standards changes"
   ],
-  "Compliance Risk": [
-    "Environmental Regulations",
-    "Vehicle Safety Standards",
-    "Data Privacy Laws",
-    "Labor Laws",
-    "Financial Regulations",
-    "Government Investigations",
-    "Product Recalls",
-    "Regulatory Approval Delays"
+  "Technology Risks": [
+    "Technological changes",
+    "IT system vulnerabilities",
+    "Network or system breaches",
+    "Service disruption risks"
+  ],
+  "Market Risks": [
+    "Currency exchange risks",
+    "Stock price volatility",
+    "Commodity price fluctuations"
   ]
 }

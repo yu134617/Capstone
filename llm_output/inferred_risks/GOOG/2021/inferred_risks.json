@@ -1,0 +1,43 @@
+{
+  "Market Risks": [
+    "Advertising revenue dependency",
+    "Economic conditions impact"
+  ],
+  "Operational Risks": [
+    "Intense competition",
+    "Innovation failure",
+    "Supply chain disruptions",
+    "Product defects impact",
+    "IT system failures",
+    "Key personnel dependency",
+    "Cybersecurity breach",
+    "Data security breaches",
+    "Business disruption risks",
+    "COVID-19 pandemic impact"
+  ],
+  "Financial Risks": [
+    "Revenue growth decline",
+    "Gross margin pressures",
+    "Tax liabilities exposure",
+    "Foreign exchange fluctuations",
+    "Investment portfolio fluctuations"
+  ],
+  "Compliance Risks": [
+    "Regulatory compliance failure",
+    "Privacy law compliance",
+    "Data protection laws",
+    "Legal proceedings exposure",
+    "Anti-corruption laws risks"
+  ],
+  "Strategic Risks": [
+    "Acquisition integration risks",
+    "Brand reputation damage",
+    "R&D investment risks",
+    "Intellectual property protection risk"
+  ],
+  "Technology Risks": [
+    "Technological changes",
+    "IT system vulnerabilities",
+    "Content moderation risks"
+  ]
+}

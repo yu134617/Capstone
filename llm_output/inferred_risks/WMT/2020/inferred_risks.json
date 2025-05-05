@@ -1,30 +1,32 @@
 {
   "Strategic Risks": [
-    "General or macro-economic factors",
-    "Strong competition",
-    "Consumer trends identification",
-    "Omni-channel strategy execution",
+    "Economic conditions impact",
+    "Market competition pressures",
+    "Customer demand changes",
+    "Growth target failure",
     "Strategic alliances performance"
   ],
   "Operational Risks": [
-    "Natural disasters",
-    "Supplier risks",
-    "Product safety",
-    "Information systems disruption",
-    "Technology-based systems failure",
-    "Data security breach",
-    "Pharmacy business performance",
-    "Labor issues"
+    "Natural disasters impact",
+    "Supply chain disruptions",
+    "Product quality risks",
+    "IT system failures",
+    "Cybersecurity breach",
+    "Data security breaches",
+    "Business disruption risks",
+    "Workforce retention challenges"
   ],
   "Financial Risks": [
-    "Foreign exchange fluctuations",
-    "Market expectations failure"
+    "Currency exchange fluctuations",
+    "Stock price volatility"
   ],
-  "Legal, Tax, Regulatory, Compliance, Reputational and Other Risks": [
-    "International operations risks",
-    "Tax and trade laws changes",
+  "Compliance Risks": [
     "Regulatory compliance failure",
-    "Legal proceedings impact",
-    "Exclusive forum provision"
+    "Privacy law compliance",
+    "Legal proceedings exposure"
+  ],
+  "Geopolitics Risks": [
+    "International operations risks",
+    "Trade disputes impact"
   ]
 }

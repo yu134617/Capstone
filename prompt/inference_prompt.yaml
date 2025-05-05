@@ -1,31 +1,37 @@
 template: |
-  任务描述: 基于公司财报中的风险描述内容（HTML格式），使用指定的风险框架，进行风险因子分析。
+  Task Description: Perform risk factor analysis based on risk descriptions (HTML format) from company financial reports, using a specified risk framework.
 
-  输入参数:
-    - 公司名称: {company}
-    - 风险描述: {description}（财报中的"risk item"部分，HTML格式）
-    - 风险框架: {framework}
+  Input Parameters:
+    - Company Name: {company}
+    - Risk Description: {description} (The "risk item" section from the financial report, in HTML format)
+    - Risk Framework: {framework}
 
-  处理要求:
-    1. 风险因子提取: 仅解析HTML中加粗标题作为风险因子，一定要忽略其他内容(如正文段落)。
-    2. 风险匹配规则:
-       - 优先使用风险框架中的现有因子
-       - 若无接近的匹配项，则生成新因子并添加`new factor`前缀（如：`new factor: technological substitution risk`）
-    3. 输出格式:
-       - 严格返回标准JSON，禁止包含解释性文字
-       - 采用双层结构: `root factor`（风险大类）→ `leaf factor`（具体风险）
-       - 优先采用财报中已有的root factor分类
-       - 若财报无明确分类，则自主归纳4-5个root factor，要求：
-         * 覆盖99%以上leaf factor
-         * 使用行业标准分类（如Market/Operational/Financial/Compliance/Strategic）
-    4. 其他约束:
-       - 保持风险因子在财报中的原始顺序
-       - 每个风险因子名称需简洁，不超过5个英文单词
+  Processing Requirements:
+    1. Risk Factor Extraction:
+      - Extract only bolded headings in the HTML as risk factors. Ignore all other content (e.g., body paragraphs).
+  
+    2. Risk Matching Rules:
+      - Prioritize existing factor names from the risk framework.
+      - If no close match exists, generate a new leaf factor and prefix it with `new factor:` (e.g., `new factor: xxx risk` if "xxx risk" is not in the framework).
+      - For a single company, limit new factors to fewer than 5 but more than 1. Prioritize matching existing framework factors.
+      - Ensure the number of leaf factors matches the count in the report (must be fewer than 20). If exceeded, reprocess until compliant.
+      - Preserve the original order of leaf factors as they appear in the report.
+    
+    3. Output Format:
+      - Strictly return standard JSON (no explanatory text).
+      - Use a two-level structure: root factor (risk category) → leaf factor (specific risk).
+      - Preserve the order of leaf factors (both in count and sequence) as in the original report.
+      - Prioritize root factors from the report for categorization.
+      - If no root factors exist in the report, derive them autonomously with these rules:
+        * Cover all leaf factors while maintaining the original order.
+        * Use industry-standard categories (e.g., Market/Operational/Financial/Compliance/Strategic/Geopolitics/Technology Risks).
+    
+    4. Additional Constraints:
+      - Do not alter the original order of risk factors.
+      - Keep factor names concise (≤5 English words).
 
-  示例输出的格式: 
-    {{
-      "Market Risk": ["Demand Decline", "Competition Intensification"],
-      "Compliance Risk": ["Policy Change", "Regulatory Adjustment"]
-    }}
-
-
+  Example Output Format:
+    {
+      "Market Risks": ["Demand Decline", "Competition Intensification"],
+      "Compliance Risks": ["Policy Change", "Regulatory Adjustment"]
+    }

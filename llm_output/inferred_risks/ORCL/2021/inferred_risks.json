@@ -1,0 +1,43 @@
+{
+  "Business and Operational Risks": [
+    "COVID-19 pandemic impact",
+    "Product development failure",
+    "Cloud strategy risks",
+    "Product errors risk",
+    "Competition intensification",
+    "Pricing model changes",
+    "Technical support quality",
+    "Complexity management risks",
+    "Manufacturing delays",
+    "Hardware revenue decline",
+    "Workforce restructuring",
+    "Key employee retention",
+    "Indirect sales risks"
+  ],
+  "Data Privacy, Security and Intellectual Property Risks": [
+    "Cybersecurity breach",
+    "Data protection laws",
+    "Intellectual property claims",
+    "Intellectual property protection risk"
+  ],
+  "Legal and Regulatory Risks": [
+    "Litigation risks",
+    "Tax liabilities exposure",
+    "International operations risks",
+    "Government contracts risks",
+    "Environmental regulation risks"
+  ],
+  "Financial Risks": [
+    "Quarterly results fluctuations",
+    "Currency exchange risks",
+    "Debt service capacity"
+  ],
+  "Risks Related to Our Common Stock": [
+    "Stock price volatility",
+    "Stock repurchase risks"
+  ],
+  "General Risks": [
+    "Economic conditions impact",
+    "Business disruption risks"
+  ]
+}

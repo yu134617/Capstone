@@ -1,0 +1,39 @@
+{
+  "COVID-19 Risks": [
+    "COVID-19 pandemic impact"
+  ],
+  "Business Risks": [
+    "Demand Decline",
+    "Brand reputation damage",
+    "Product quality risks",
+    "Market competition pressures",
+    "Workforce retention challenges",
+    "Water scarcity impact",
+    "Retail landscape changes",
+    "Supply chain disruptions",
+    "Political condition changes",
+    "Emerging markets growth challenges",
+    "Economic conditions impact",
+    "Cybersecurity breach",
+    "Strategic alliances performance",
+    "Third-party dependency",
+    "Climate change effects",
+    "Workforce retention challenges"
+  ],
+  "Financial Risks": [
+    "Cost reduction challenges",
+    "Asset impairment risks",
+    "Currency exchange risks",
+    "Credit rating downgrade risk"
+  ],
+  "Legal, Tax and Regulatory Risks": [
+    "Tax regulation changes",
+    "Marketing restrictions impact",
+    "Packaging regulations impact",
+    "Privacy law compliance",
+    "Tax regulation changes",
+    "Intellectual property protection risk",
+    "Regulatory compliance failure",
+    "Legal proceedings exposure"
+  ]
+}

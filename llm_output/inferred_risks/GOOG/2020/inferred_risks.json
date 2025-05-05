@@ -1,34 +1,49 @@
 {
-  "Market Risk": [
-    "Advertising Revenue Dependence",
-    "Intense Competition",
-    "Revenue Growth Decline",
-    "New Technologies Impact"
+  "Market Risks": [
+    "Advertising revenue dependency",
+    "Market competition pressures"
   ],
-  "Operational Risk": [
-    "Innovation Investment Risks",
-    "Manufacturing Supply Chain Risks",
-    "IT System Failures",
-    "Product Quality Issues",
-    "International Operations Risks"
+  "Operational Risks": [
+    "Key personnel dependency",
+    "Product defects impact",
+    "Supply chain disruptions",
+    "IT system failures",
+    "Product quality risks"
   ],
-  "Financial Risk": [
-    "Operating Margin Pressure",
-    "Currency Exchange Risks",
-    "Investment Portfolio Fluctuations",
-    "Tax Rate Changes"
+  "Financial Risks": [
+    "Revenue growth decline",
+    "Gross margin pressures",
+    "Tax liabilities exposure",
+    "Foreign exchange fluctuations"
   ],
-  "Compliance Risk": [
-    "Regulatory Scrutiny",
-    "Data Privacy Laws",
-    "Intellectual Property Claims",
-    "Content Liability",
-    "Anti-Corruption Laws"
+  "Compliance Risks": [
+    "Regulatory compliance failure",
+    "Privacy law compliance",
+    "Data protection laws",
+    "Legal proceedings exposure"
   ],
-  "Strategic Risk": [
-    "Brand Reputation Damage",
-    "Acquisition Integration Risks",
-    "Key Personnel Dependency",
-    "Corporate Culture Erosion"
+  "Strategic Risks": [
+    "Intense competition",
+    "Acquisition integration risks",
+    "Innovation failure",
+    "Brand reputation damage",
+    "R&D investment risks"
+  ],
+  "Technology Risks": [
+    "Technological changes",
+    "IT system vulnerabilities",
+    "Cloud services risks",
+    "AI use risks",
+    "Service disruption risks"
+  ],
+  "Geopolitics Risks": [
+    "Trade disputes impact",
+    "Global operational risks",
+    "Brexit impact",
+    "Political condition changes"
+  ],
+  "new factor": [
+    "new factor: Intellectual property risks",
+    "new factor: Content moderation risks"
   ]
 }

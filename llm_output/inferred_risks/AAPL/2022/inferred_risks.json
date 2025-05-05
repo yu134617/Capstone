@@ -1,0 +1,34 @@
+{
+  "Macroeconomic and Industry Risks": [
+    "Economic conditions impact",
+    "COVID-19 pandemic impact",
+    "Political events impact",
+    "Natural disasters impact"
+  ],
+  "Competitive Risks": [
+    "Intense competition",
+    "Technology innovation pressure",
+    "Product lifecycle challenges",
+    "new factor: Patent infringement risk"
+  ],
+  "Business Risks": [
+    "Product transition challenges",
+    "Supply chain concentration",
+    "Component supply risks",
+    "Product defect liability",
+    "Inventory valuation risks"
+  ],
+  "Legal and Regulatory Compliance Risks": [
+    "Legal proceedings exposure",
+    "Regulatory compliance challenges",
+    "new factor: Digital Markets Act impact",
+    "Data protection compliance",
+    "Antitrust investigations exposure"
+  ],
+  "Financial Risks": [
+    "Foreign exchange volatility",
+    "Investment portfolio risks",
+    "Credit exposure risks",
+    "Tax regulation changes"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "Operational and Execution Risks": [
+    "Cybersecurity breach",
+    "Service disruption risks",
+    "Third-party dependency",
+    "Acquisition integration risks",
+    "Workforce retention challenges",
+    "Customer attrition risk",
+    "Sales organization disruption",
+    "Third-party infrastructure dependency",
+    "International operations risks",
+    "Enterprise sales cycle risks",
+    "Key personnel retention risk",
+    "Support service quality risk"
+  ],
+  "Strategic and Industry Risks": [
+    "Intense competition risk",
+    "Technological innovation risk",
+    "Brand reputation risk",
+    "Strategic investment volatility",
+    "Third-party ecosystem dependency",
+    "AI implementation risks",
+    "ESG compliance risks"
+  ],
+  "Legal and Regulatory Risks": [
+    "Data privacy compliance",
+    "Industry-specific regulations",
+    "Intellectual property litigation",
+    "Government contract risks",
+    "Trade sanction exposure"
+  ],
+  "Financial Risks": [
+    "Revenue recognition timing",
+    "Growth rate fluctuations",
+    "Tax regulation changes",
+    "Currency exchange volatility",
+    "Debt obligation risks",
+    "Accounting standard changes"
+  ],
+  "Risks Related to Owning Our Common Stock": [
+    "Quarterly results volatility",
+    "Stock price litigation risk",
+    "Corporate control provisions"
+  ],
+  "General Risks": [
+    "Pandemic operational impact",
+    "Economic downturn risks",
+    "Natural disaster impact",
+    "Climate change exposure"
+  ]
+}

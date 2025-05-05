@@ -1,0 +1,35 @@
+{
+  "Operational Risks": [
+    "COVID-19 pandemic impact",
+    "Manufacturing disruption risks",
+    "Supply chain disruptions",
+    "Third-party dependency",
+    "Product quality risks",
+    "Business disruption risks"
+  ],
+  "Strategic Risks": [
+    "Intellectual property protection risk",
+    "R&D investment risks",
+    "Innovation failure",
+    "Market competition pressures",
+    "Acquisition integration risks"
+  ],
+  "Financial Risks": [
+    "Debt service capacity",
+    "Revenue growth decline",
+    "Pricing pressure risks",
+    "Cost reduction challenges"
+  ],
+  "Compliance Risks": [
+    "Regulatory compliance failure",
+    "Legal proceedings exposure",
+    "Privacy law compliance"
+  ],
+  "Market Risks": [
+    "Currency exchange risks",
+    "Stock price volatility"
+  ],
+  "Technology Risks": [
+    "IT system vulnerabilities"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "Market Risks": [
+    "Currency exchange risks",
+    "Commodity price fluctuations"
+  ],
+  "Geopolitics Risks": [
+    "International operations risks",
+    "Political condition changes",
+    "Political unrest impact"
+  ],
+  "Financial Risks": [
+    "Credit rating downgrade risk"
+  ],
+  "Operational Risks": [
+    "Supply chain disruptions",
+    "Third-party dependency",
+    "Cybersecurity breach",
+    "COVID-19 pandemic impact",
+    "Key personnel dependency"
+  ],
+  "Strategic Risks": [
+    "Intense competition",
+    "Customer demand changes",
+    "Brand reputation damage",
+    "Innovation failure",
+    "Acquisition integration risks"
+  ],
+  "Compliance Risks": [
+    "Regulatory compliance failure",
+    "Tax regulation changes"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "Market Risks": [
+    "Stock price volatility",
+    "Economic conditions impact"
+  ],
+  "Geopolitics Risks": [
+    "Geopolitical tensions"
+  ],
+  "Financial Risks": [
+    "Revenue unpredictability"
+  ],
+  "Operational Risks": [
+    "Supply chain disruptions",
+    "Gross margin fluctuations",
+    "Inventory management challenges",
+    "Manufacturing lead times",
+    "Component shortages",
+    "Product demand misestimation"
+  ],
+  "Strategic Risks": [
+    "Intense competition",
+    "Strategic alliance management",
+    "New product development risks",
+    "Acquisition integration risks",
+    "Emerging market competition"
+  ],
+  "Technology Risks": [
+    "AI implementation risks",
+    "Cybersecurity breach risks",
+    "Vulnerability management risks"
+  ],
+  "Compliance Risks": [
+    "Data protection compliance",
+    "Regulatory uncertainty"
+  ],
+  "Reputational Risks": [
+    "new factor: Counterfeit product risks"
+  ]
+}

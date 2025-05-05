@@ -1,0 +1,24 @@
+{
+  "Macroeconomic Conditions and Related Financial Risks": [
+    "Currency exchange risks",
+    "Commodity price fluctuations",
+    "Political unrest impact"
+  ],
+  "Business Operations Risks": [
+    "Supply chain disruptions",
+    "Cost reduction challenges",
+    "Market competition pressures",
+    "Brand reputation damage",
+    "Third-party dependency",
+    "Cybersecurity breach"
+  ],
+  "Business Strategy & Organizational Risks": [
+    "Innovation failure",
+    "Acquisition integration risks",
+    "Workforce retention challenges"
+  ],
+  "Legal & Regulatory Risks": [
+    "Regulatory compliance failure",
+    "Tax regulation changes"
+  ]
+}

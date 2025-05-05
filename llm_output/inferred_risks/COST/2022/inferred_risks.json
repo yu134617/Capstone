@@ -1,0 +1,38 @@
+{
+  "Operational Risks": [
+    "Business disruption risks",
+    "Supply chain disruptions",
+    "Workforce retention challenges",
+    "Natural disasters impact",
+    "COVID-19 pandemic impact"
+  ],
+  "Strategic Risks": [
+    "Growth target failure",
+    "Customer demand changes",
+    "Innovation failure"
+  ],
+  "Market Risks": [
+    "Intense competition",
+    "Economic conditions impact",
+    "Currency exchange risks",
+    "Stock price volatility"
+  ],
+  "Compliance Risks": [
+    "Data protection laws",
+    "new factor: Payment processing risk",
+    "Environmental regulation risks",
+    "Legal proceedings exposure",
+    "Accounting standards changes",
+    "Tax regulation changes"
+  ],
+  "Technology Risks": [
+    "IT system failures"
+  ],
+  "Geopolitics Risks": [
+    "Climate change effects",
+    "International operations risks"
+  ],
+  "Financial Risks": [
+    "Insurance coverage gaps"
+  ]
+}

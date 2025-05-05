@@ -1,0 +1,22 @@
+{
+  "Operational Risks": [
+    "Product defects impact"
+  ],
+  "Strategic Risks": [
+    "R&D investment risks",
+    "Intellectual property protection risk",
+    "Intense competition"
+  ],
+  "Geopolitics Risks": [
+    "Trade disputes impact"
+  ],
+  "Compliance Risks": [
+    "Legal proceedings exposure",
+    "Regulatory compliance failure",
+    "Tax regulation changes"
+  ],
+  "Financial Risks": [
+    "Currency exchange risks",
+    "Interest rate risk"
+  ]
+}

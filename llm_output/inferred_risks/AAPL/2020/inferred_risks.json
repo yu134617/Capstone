@@ -1,38 +1,43 @@
 {
-  "Operational Risk": [
-    "COVID-19 Pandemic Impact",
-    "Supply Chain Disruptions",
-    "Manufacturing Dependence",
-    "Product Defects",
-    "IT System Failures",
-    "Data Security Breaches"
+  "Operational Risks": [
+    "Supply chain disruptions",
+    "Outsourcing partner dependence",
+    "Product defects impact",
+    "Business disruption risks",
+    "Third-party dependency",
+    "Key personnel dependency",
+    "Cybersecurity breach",
+    "Operational efficiency risks",
+    "IT system failures"
   ],
-  "Market Risk": [
-    "Economic Conditions Volatility",
-    "Competition Intensification",
-    "Product Transition Challenges",
-    "Reseller Performance Dependence",
-    "Inventory Write-downs"
+  "Market Risks": [
+    "Economic conditions impact",
+    "Stock price volatility"
   ],
-  "Strategic Risk": [
-    "Innovation Failure",
-    "Intellectual Property Risks",
-    "Third-party Content Access",
-    "Developer Support Dependence",
-    "Acquisition Integration Risks"
+  "Strategic Risks": [
+    "Intense competition",
+    "Acquisition integration risks",
+    "Strategic alliances performance",
+    "new factor: Product transition management",
+    "new factor: Third-party developer reliance"
   ],
-  "Financial Risk": [
-    "Currency Fluctuations",
-    "Investment Portfolio Volatility",
-    "Credit Risk Exposure",
-    "Tax Rate Changes",
-    "Stock Price Volatility"
+  "Compliance Risks": [
+    "Legal proceedings exposure",
+    "Regulatory compliance failure",
+    "Data protection laws",
+    "Tax regulation changes"
   ],
-  "Compliance Risk": [
-    "Legal Proceedings Exposure",
-    "Regulatory Changes Impact",
-    "Data Protection Compliance",
-    "Trade Disputes Impact",
-    "Environmental Compliance"
+  "Financial Risks": [
+    "Inventory management challenges",
+    "Quarterly results fluctuations",
+    "Foreign exchange fluctuations",
+    "Investment portfolio fluctuations",
+    "Credit market risks"
+  ],
+  "Geopolitics Risks": [
+    "Trade disputes impact"
+  ],
+  "Technology Risks": [
+    "IT system failures"
   ]
 }

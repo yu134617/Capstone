@@ -1,0 +1,33 @@
+{
+  "Strategic Risks": [
+    "Intense competition",
+    "Customer demand changes",
+    "Growth target failure",
+    "Strategic alliances performance"
+  ],
+  "Operational Risks": [
+    "COVID-19 pandemic impact",
+    "Natural disasters impact",
+    "Supply chain disruptions",
+    "Product quality risks",
+    "IT system failures",
+    "Cybersecurity breach",
+    "Data security breaches",
+    "Workforce retention challenges",
+    "Business disruption risks"
+  ],
+  "Financial Risks": [
+    "Stock price volatility",
+    "Foreign exchange fluctuations"
+  ],
+  "Compliance Risks": [
+    "Regulatory compliance failure",
+    "Tax regulation changes",
+    "Legal proceedings exposure",
+    "Privacy law compliance"
+  ],
+  "Geopolitics": [
+    "Political condition changes",
+    "Trade disputes impact"
+  ]
+}

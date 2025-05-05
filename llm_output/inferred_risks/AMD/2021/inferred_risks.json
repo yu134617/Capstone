@@ -1,0 +1,60 @@
+{
+  "Economic and Strategic Risks": [
+    "Market competition pressures",
+    "Economic conditions impact",
+    "Key personnel dependency",
+    "COVID-19 pandemic impact",
+    "Market competition pressures",
+    "Quarterly results fluctuations",
+    "Customer demand changes",
+    "Market volatility risk",
+    "Intellectual property protection risk",
+    "Currency exchange risks"
+  ],
+  "Operational and Technology Risks": [
+    "Supply chain disruptions",
+    "Manufacturing disruption risks",
+    "Supply chain disruptions",
+    "Product quality risks",
+    "Product defects impact",
+    "Cybersecurity breach",
+    "Data security breaches",
+    "Inventory management challenges",
+    "Third-party dependency",
+    "Third-party dependency",
+    "Third-party dependency",
+    "Third-party dependency",
+    "Business disruption risks",
+    "Product defects impact",
+    "Supply chain disruptions",
+    "Supply chain disruptions",
+    "Inventory management challenges"
+  ],
+  "Legal and Regulatory Risks": [
+    "Regulatory compliance failure",
+    "Tax liabilities exposure",
+    "Tax liabilities exposure",
+    "Legal proceedings exposure",
+    "Environmental regulation risks"
+  ],
+  "Xilinx Merger and Acquisition Risks": [
+    "Acquisition integration risks",
+    "Regulatory compliance failure",
+    "Business disruption risks",
+    "Intellectual property protection risk"
+  ],
+  "Liquidity and Capital Resources Risks": [
+    "Debt service capacity",
+    "Debt service capacity",
+    "Cash generation risks",
+    "Debt service capacity",
+    "Cash generation risks"
+  ],
+  "General Risks": [
+    "Global operational risks",
+    "Intellectual property protection risk",
+    "Key personnel dependency",
+    "Stock price volatility",
+    "Political condition changes"
+  ]
+}

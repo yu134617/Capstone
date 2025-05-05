@@ -1,0 +1,30 @@
+{
+  "Strategic Risks": [
+    "Growth target failure",
+    "new factor: Consumer trends misalignment",
+    "Intense competition",
+    "Macro-economic factors impact"
+  ],
+  "Operational Risks": [
+    "COVID-19 pandemic impact",
+    "Natural disasters impact",
+    "Supply chain disruptions",
+    "Product safety failures",
+    "IT system failures",
+    "Omni-channel technology failure",
+    "Cybersecurity breach",
+    "Healthcare business volatility",
+    "Workforce retention challenges"
+  ],
+  "Financial Risks": [
+    "Stock price volatility",
+    "Currency exchange risks"
+  ],
+  "Legal/Regulatory Risks": [
+    "International operations risks",
+    "Tax regulation changes",
+    "Policy compliance failure",
+    "Litigation exposure",
+    "ESG scrutiny impact"
+  ]
+}

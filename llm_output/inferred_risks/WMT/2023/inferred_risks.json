@@ -1,0 +1,37 @@
+{
+  "Strategic Risks": [
+    "new factor: Omni-channel execution risk",
+    "Customer demand changes",
+    "Intense competition",
+    "Economic conditions impact",
+    "Strategic alliances performance"
+  ],
+  "Operational Risks": [
+    "COVID-19 pandemic impact",
+    "Supply chain disruptions",
+    "Product quality risks",
+    "IT system failures"
+  ],
+  "Technology Risks": [
+    "Technological changes"
+  ],
+  "Compliance Risks": [
+    "Data security breaches",
+    "new factor: Health business model risk"
+  ],
+  "Financial Risks": [
+    "Stock price volatility",
+    "Currency exchange risks"
+  ],
+  "Geopolitics Risks": [
+    "Climate change effects",
+    "International operations risks"
+  ],
+  "Legal & Regulatory Risks": [
+    "Tax regulation changes",
+    "Regulatory compliance failure",
+    "Legal proceedings exposure",
+    "new factor: Legal forum restrictions",
+    "ESG scrutiny impact"
+  ]
+}

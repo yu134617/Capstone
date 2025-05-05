@@ -5,7 +5,7 @@ from gen_risk import *
 
 def merge_risk_factors(merged_risks):
     """Merge two sets of risk factors using DeepSeek."""
-    merge_prompt = load_prompt("merge_prompt.yaml")
+    merge_prompt = load_prompt("merge_prompt_v1.yaml")
 
     try:
         prompt = merge_prompt.format(input=merged_risks)

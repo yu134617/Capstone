@@ -32,7 +32,7 @@ def infer_company_risks(company, risk_framework, risk_item):
 
     try:
         response = client.chat.completions.create(
-            model="deepseek-chat",
+            model="deepseek-reasoner",
             messages=[
                 {"role": "system", "content": """You are a risk analysis expert who specializes in inferring 
                                               company-specific risks and identifying new risk patterns. 
@@ -120,7 +120,7 @@ def infer_risk(framework_year, analysis_year, companies):
 if __name__ == "__main__":
     excel_path = "stock_list.xlsx"
     companies = read_stock_list(excel_path)
-    framework_year = "2019"
-    analysis_year = "2020"
+    framework_year = "2021"
+    analysis_year = "2023"
 
     infer_risk(framework_year, analysis_year, companies)

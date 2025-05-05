@@ -1,0 +1,36 @@
+{
+  "Market Risks": [
+    "Demand Decline",
+    "Competition Intensification"
+  ],
+  "Compliance Risks": [
+    "Policy Change",
+    "Regulatory Adjustment",
+    "Taxation Impact",
+    "Labeling Requirements"
+  ],
+  "Operational Risks": [
+    "Supply Chain Disruptions",
+    "Product Quality Risks",
+    "IT System Failures",
+    "Workforce Retention Challenges"
+  ],
+  "Strategic Risks": [
+    "Innovation Failure",
+    "Brand Reputation Damage",
+    "Acquisition Integration Risks"
+  ],
+  "Geopolitics Risks": [
+    "Political Unrest Impact",
+    "Trade Disputes Impact"
+  ],
+  "Financial Risks": [
+    "Currency Exchange Risks",
+    "Debt Service Capacity",
+    "Cost Reduction Challenges"
+  ],
+  "Technology Risks": [
+    "IT System Vulnerabilities",
+    "Data Security Breaches"
+  ]
+}

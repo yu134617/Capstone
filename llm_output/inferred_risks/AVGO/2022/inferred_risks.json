@@ -1,0 +1,42 @@
+{
+  "Market Risks": [
+    "Economic conditions impact",
+    "Market volatility risk",
+    "Customer concentration risk",
+    "Supply and demand imbalance",
+    "Price erosion risk"
+  ],
+  "Operational Risks": [
+    "Supply chain disruptions",
+    "Supplier concentration risk",
+    "Manufacturing disruption risks",
+    "IT system failures",
+    "Product defects impact",
+    "Business disruption risks",
+    "COVID-19 pandemic impact",
+    "Inventory management challenges",
+    "Key personnel dependency",
+    "R&D investment risks"
+  ],
+  "Compliance Risks": [
+    "Regulatory compliance failure",
+    "Trade restrictions impact",
+    "Environmental regulation risks"
+  ],
+  "Strategic Risks": [
+    "Acquisition integration risks",
+    "Competition intensification",
+    "Intellectual property protection risk",
+    "new factor: VMware merger risk",
+    "Technology obsolescence risk"
+  ],
+  "Financial Risks": [
+    "Debt service capacity",
+    "Stock price volatility",
+    "Dividend sustainability risk"
+  ],
+  "Geopolitical Risks": [
+    "International operations risks",
+    "Trade disputes impact"
+  ]
+}

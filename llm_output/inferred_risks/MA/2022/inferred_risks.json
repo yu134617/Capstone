@@ -1,0 +1,31 @@
+{
+  "Compliance Risks": [
+    "Regulatory compliance failure",
+    "Interchange fee regulation",
+    "new factor: Merchant surcharge restriction risk",
+    "Privacy law compliance",
+    "Regulatory compliance failure",
+    "Anti-corruption laws risks",
+    "Regulatory compliance failure"
+  ],
+  "Operational Risks": [
+    "COVID-19 pandemic impact",
+    "Intense competition",
+    "Technological changes",
+    "Service disruption risks",
+    "Key personnel dependency",
+    "Cybersecurity breach",
+    "Third-party dependency"
+  ],
+  "Strategic Risks": [
+    "Brand reputation damage",
+    "Acquisition integration risks"
+  ],
+  "Financial Risks": [
+    "Currency exchange risks",
+    "Tax regulation changes"
+  ],
+  "Geopolitics Risks": [
+    "Political condition changes"
+  ]
+}

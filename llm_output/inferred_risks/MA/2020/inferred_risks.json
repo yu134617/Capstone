@@ -1,50 +1,39 @@
 {
   "Legal and Regulatory": [
     "Payments Industry Regulation",
-    "Interchange Rate Regulation",
-    "Merchant Surcharging Limitations",
+    "Interchange rates impact",
+    "Merchant surcharging limits",
     "Preferential Government Actions",
-    "Privacy Data Security Regulation",
-    "Anti-Money Laundering Compliance",
+    "Privacy, Data and Security",
+    "Anti-Money Laundering",
     "Account-based Payment Systems",
     "Issuer Practice Legislation",
-    "Tax Law Changes",
-    "Litigation Liabilities"
+    "Tax laws changes",
+    "Litigation exposure"
   ],
   "Business and Operations": [
-    "Intense Industry Competition",
-    "Disintermediation Risks",
-    "Pricing Pressure",
-    "Technological Changes Impact",
-    "Real-time Payment Risks",
-    "New Product Challenges",
-    "Information Security Incidents",
-    "Service Disruptions",
-    "Customer Dependency",
-    "Exclusive Competitor Relationships",
-    "Banking Industry Consolidation",
-    "Issuer Acquirer Dependency",
-    "Merchant Cost Focus",
-    "Government Contract Risks",
-    "Settlement Guarantor Risks",
-    "Economic Political Conditions",
-    "Currency Fluctuation Risks",
-    "Brexit Impact"
-  ],
-  "Brand and Reputation": [
-    "Negative Brand Perception",
-    "Brand Visibility Issues"
-  ],
-  "Talent and Culture": [
-    "Workforce Retention Challenges",
-    "Corporate Culture Risks"
-  ],
-  "Acquisitions": [
-    "Integration Difficulties",
-    "New Business Risks"
+    "Competition and Technology",
+    "Disintermediation risks",
+    "Pricing pressure",
+    "Technological changes",
+    "Real-time payment risks",
+    "New customer challenges",
+    "Information Security",
+    "Service disruptions",
+    "Stakeholder Relationships",
+    "Customer consolidation impact",
+    "Government work risks",
+    "Settlement obligations",
+    "Global economic impact",
+    "Currency fluctuations",
+    "Brexit impact",
+    "Brand perception",
+    "Brand visibility",
+    "Talent retention",
+    "Acquisition integration"
   ],
   "Class A Common Stock and Governance Structure": [
-    "Anti-takeover Provisions",
-    "Foundation Stock Ownership"
+    "Anti-takeover provisions",
+    "Foundation stock ownership"
   ]
 }

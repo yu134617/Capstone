@@ -1,29 +1,34 @@
 {
-  "Human Resources": [
-    "Qualified Personnel Need"
+  "Operational": [
+    "Key personnel dependency",
+    "Qualified personnel shortage"
   ],
-  "Investment Risks": [
-    "Equity Concentration Risk"
+  "Market": [
+    "Investment concentration risk",
+    "Equity securities volatility"
   ],
-  "Market Risk": [
-    "Competition Erosion"
+  "Strategic": [
+    "Intense competition",
+    "Technology erosion impact"
   ],
-  "Economic Conditions": [
-    "Economic Deterioration Impact"
+  "Geopolitics": [
+    "Economic conditions impact",
+    "Terrorist acts impact"
   ],
-  "Global Operations": [
-    "Terrorist Acts Impact"
+  "Compliance": [
+    "Regulatory changes impact",
+    "Data privacy regulations"
   ],
-  "Regulatory Compliance": [
-    "Utilities Regulation Changes"
+  "Technology": [
+    "Cybersecurity breach",
+    "IT system vulnerabilities"
   ],
-  "Data Security": [
-    "Cybersecurity Risks"
+  "Operational Risks": [
+    "new factor: Insurance underwriting losses",
+    "new factor: Insurance loss reserves estimation"
   ],
-  "Insurance Risks": [
-    "Reserve Estimation Risk"
-  ],
-  "Capital Risks": [
-    "Capital Investment Risks"
+  "Compliance Risks": [
+    "Regulatory capital restrictions",
+    "Railroad regulatory changes"
   ]
 }

@@ -1,0 +1,45 @@
+{
+  "Market Risks": [
+    "Economic conditions impact",
+    "Market volatility risk",
+    "Customer concentration risk"
+  ],
+  "Compliance Risks": [
+    "Regulatory compliance failure",
+    "Trade restrictions impact",
+    "Environmental regulation risks",
+    "Privacy law compliance"
+  ],
+  "Operational Risks": [
+    "Merger integration failure",
+    "Acquisition execution risks",
+    "Channel partner dependency",
+    "Key personnel dependency",
+    "IT system failures",
+    "Manufacturing disruption risks",
+    "Supply chain disruptions",
+    "Product defects impact",
+    "R&D investment risks"
+  ],
+  "Financial Risks": [
+    "Debt service capacity",
+    "Cash generation risks",
+    "Tax liabilities exposure",
+    "Dividend sustainability risk"
+  ],
+  "Strategic Risks": [
+    "Product lifecycle management",
+    "Competition intensification",
+    "Intellectual property protection risk"
+  ],
+  "Technology Risks": [
+    "Software compatibility risks",
+    "Open source software risks",
+    "Cloud services risks",
+    "Cybersecurity breach risks"
+  ],
+  "Geopolitics Risks": [
+    "International operations risks",
+    "Political condition changes"
+  ]
+}

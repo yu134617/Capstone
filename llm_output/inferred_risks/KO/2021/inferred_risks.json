@@ -1,0 +1,53 @@
+{
+  "Operational Risks": [
+    "COVID-19 pandemic impact",
+    "Productivity initiatives failure",
+    "Workforce retention challenges",
+    "Supply chain disruptions",
+    "Manufacturing disruption risks",
+    "Innovation failure",
+    "Retail landscape changes",
+    "Emerging markets expansion failure",
+    "Energy cost increase",
+    "Raw material cost increase",
+    "Product safety risks",
+    "Consumer preferences shift",
+    "Brand reputation damage",
+    "Bottling partners relationship",
+    "Bottling partners financial condition",
+    "Business integration risks",
+    "Refranchising activities failure"
+  ],
+  "Compliance Risks": [
+    "Tax law changes",
+    "Indirect taxes increase",
+    "Beverage container regulations",
+    "Labeling requirements",
+    "Litigation exposure",
+    "Legal compliance failures",
+    "Intellectual property protection risk"
+  ],
+  "Financial Risks": [
+    "Currency exchange risks",
+    "Interest rate risk",
+    "Economic conditions impact",
+    "Growth target failure",
+    "Counterparty financial failures",
+    "Asset impairment risks",
+    "Strategic relationship failure"
+  ],
+  "Technology Risks": [
+    "IT system failures",
+    "Data security breaches",
+    "Personal data protection",
+    "Digitization failure",
+    "Third-party service failures"
+  ],
+  "Environmental Risks": [
+    "Plastic packaging impact",
+    "Water scarcity risks",
+    "Agricultural productivity decline",
+    "Climate change effects",
+    "Weather conditions impact"
+  ]
+}

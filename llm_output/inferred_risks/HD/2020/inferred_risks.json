@@ -1,40 +1,34 @@
 {
-  "Competition Risk": [
-    "Strong competition"
+  "Strategic Risks": [
+    "Intense competition",
+    "Consumer demand changes"
   ],
-  "Market Risk": [
-    "Consumer trends mismatch",
-    "Customer expectations change"
+  "Operational Risks": [
+    "Supply chain disruptions",
+    "IT system failures",
+    "Workforce retention challenges",
+    "Data security breaches",
+    "Product quality risks",
+    "Business disruption risks",
+    "Natural disasters impact",
+    "Inventory management challenges",
+    "Third-party dependency",
+    "Product defects impact"
   ],
-  "Operational Risk": [
-    "Supply chain disruption",
-    "IT system failure",
-    "Labor retention challenge",
-    "Data security breach",
-    "Payment processing risk"
+  "Financial Risks": [
+    "Cost reduction challenges",
+    "Tax liabilities exposure"
   ],
-  "Strategic Risk": [
-    "Initiative implementation failure",
-    "Strategic transaction failure"
+  "Compliance Risks": [
+    "Regulatory compliance failure",
+    "Privacy law compliance"
   ],
-  "Regulatory Risk": [
-    "Privacy regulation change",
-    "Labor law change",
-    "Tax law change"
+  "Market Risks": [
+    "Housing market risk",
+    "Commodity price fluctuations"
   ],
-  "Financial Risk": [
-    "Commodity price volatility",
-    "Insurance coverage gap"
-  ],
-  "Legal Risk": [
-    "Product liability",
-    "Installation service liability"
-  ],
-  "Reputation Risk": [
-    "Brand reputation damage"
-  ],
-  "Global Risk": [
-    "International operation challenge",
-    "Trade policy change"
+  "Technology Risks": [
+    "IT system vulnerabilities",
+    "Service disruption risks"
   ]
 }

@@ -1,24 +1,26 @@
 {
-  "Market Risk": [
-    "Commodity Price Volatility"
+  "Market Risks": [
+    "Commodity price fluctuations"
   ],
-  "Operational Risk": [
-    "Resource Development Failure",
-    "Operational Disruptions",
-    "Process Control Risks",
-    "Inherent Operational Hazards"
+  "Operational Risks": [
+    "new factor: Resource development failure",
+    "new factor: Natural or human causes disruption",
+    "Cybersecurity breach",
+    "new factor: Operational hazards oversight",
+    "new factor: Liability risks from litigation"
   ],
-  "Legal and Regulatory Risk": [
-    "Litigation Liability",
-    "Insurance Coverage Gaps",
-    "Political Instability",
-    "GHG Emissions Regulation"
+  "Financial Risks": [
+    "new factor: Insurance coverage gap"
   ],
-  "Strategic Risk": [
-    "ESG Impact",
-    "Management Estimates Uncertainty"
+  "Geopolitics Risks": [
+    "Political condition changes",
+    "Regulatory changes impact",
+    "Climate change effects"
   ],
-  "Technology Risk": [
-    "Cybersecurity Threats"
+  "Strategic Risks": [
+    "new factor: ESG matters impact"
+  ],
+  "Compliance Risks": [
+    "new factor: Management estimates inaccuracy"
   ]
 }

@@ -1,0 +1,21 @@
+{
+  "Business, Operational and Acquisition-Related Risk Factors": [
+    "COVID-19 pandemic impact",
+    "Commodity price fluctuations",
+    "new factor: Resource development failure",
+    "Business disruption risks",
+    "Cybersecurity breach",
+    "Operational hazard risks",
+    "new factor: Insurance coverage gaps"
+  ],
+  "Legal, Regulatory and ESG-Related Risk Factors": [
+    "Environmental regulation risks",
+    "Political unrest impact",
+    "Regulatory compliance failure",
+    "Climate change effects",
+    "new factor: ESG scrutiny impact"
+  ],
+  "General Risk Factors": [
+    "Accounting standards changes"
+  ]
+}

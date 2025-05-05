@@ -1,0 +1,36 @@
+{
+  "Operational Risks": [
+    "Supply chain disruptions",
+    "Manufacturing disruption risks",
+    "Supplier dependency risks",
+    "Production ramp challenges",
+    "Workforce retention challenges",
+    "Battery supply dependency",
+    "Production cost control risks",
+    "Quality control challenges",
+    "Global expansion complexity",
+    "Infrastructure scaling challenges"
+  ],
+  "Market Risks": [
+    "Demand fluctuation risks",
+    "Competition intensification",
+    "Consumer preference shifts"
+  ],
+  "Financial Risks": [
+    "Interest rate sensitivity",
+    "Debt covenant constraints"
+  ],
+  "Technology Risks": [
+    "Autonomous driving regulation",
+    "Software defects risks",
+    "Cybersecurity breach risks"
+  ],
+  "Strategic Risks": [
+    "Executive dependency risk",
+    "Public perception volatility"
+  ],
+  "Compliance Risks": [
+    "Environmental regulation risks",
+    "Labor law compliance"
+  ]
+}

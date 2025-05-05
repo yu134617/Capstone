@@ -1,16 +1,23 @@
 import json
+import logging
 
-from gen_risk import *
+from pathlib import Path
+
+from gen_risk import load_prompt, client, read_stock_list
+
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
 
 
-def merge_risk_factors(merged_risks):
+def merge_risk_factors(merged_risks, prior_framework):
     """Merge two sets of risk factors using DeepSeek."""
     merge_prompt = load_prompt("merge_prompt_v2.yaml")
 
     try:
-        prompt = merge_prompt.format(input=merged_risks)
+        prompt = merge_prompt.format(input=merged_risks,
+                                     previous_framework=prior_framework)
         response = client.chat.completions.create(
-            model="deepseek-chat",
+            model="deepseek-reasoner",
             messages=[
                 {"role": "system",
                  "content": "You are a financial analyst expert in merging and generalizing risk factors."},
@@ -66,7 +73,13 @@ def merge_company_risk_factors(year, companies):
             logger.error(f"Error processing {company}: {str(e)}")
             continue
 
-    framework = merge_risk_factors(merged_risks)
+    # Load previous framework
+    prior_year = str(int(year) - 1)
+    prior_framework_path = Path("llm_output") / "risk_frameworks" / f"risk_framework_{prior_year}.json"
+    with open(prior_framework_path, 'r', encoding='utf-8') as f:
+        prior_framework = json.load(f)
+
+    framework = merge_risk_factors(merged_risks, prior_framework)
     save_framework(framework, year)
 
     return framework
@@ -75,8 +88,6 @@ def merge_company_risk_factors(year, companies):
 if __name__ == "__main__":
     excel_path = "stock_list.xlsx"
     companies = read_stock_list(excel_path)
-    framework_year = "2020"
+    framework_year = "2023"
 
     merge_company_risk_factors(framework_year, companies)
-
-

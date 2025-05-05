@@ -1,0 +1,27 @@
+{
+  "Geopolitics": [
+    "Political unrest impact",
+    "Climate change effects"
+  ],
+  "Operational": [
+    "Cybersecurity breach",
+    "Key personnel dependency",
+    "Workforce retention challenges",
+    "COVID-19 pandemic impact",
+    "new factor: Insurance underwriting risk"
+  ],
+  "Financial": [
+    "Investment portfolio fluctuations",
+    "new factor: Insurance reserve estimation risk"
+  ],
+  "Strategic": [
+    "Intense competition"
+  ],
+  "Market": [
+    "Economic conditions impact"
+  ],
+  "Compliance": [
+    "Regulatory compliance failure",
+    "Environmental regulation risks"
+  ]
+}

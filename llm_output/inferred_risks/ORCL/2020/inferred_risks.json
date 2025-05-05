@@ -1,60 +1,47 @@
 {
-  "Economic Conditions": [
-    "COVID-19 pandemic impact"
+  "Operational Risks": [
+    "Supply chain disruptions",
+    "IT system failures",
+    "Product defects impact",
+    "Cybersecurity breach",
+    "Data security breaches",
+    "Business disruption risks",
+    "Natural disasters impact"
   ],
-  "Product Risks": [
-    "New product development failure",
-    "Product integration challenges",
-    "Product performance issues"
+  "Strategic Risks": [
+    "Intense competition",
+    "Acquisition integration risks",
+    "Innovation failure",
+    "Market competition pressures",
+    "Brand reputation damage",
+    "R&D investment risks"
+  ],
+  "Financial Risks": [
+    "Quarterly results fluctuations",
+    "Revenue growth decline",
+    "Gross margin pressures",
+    "Tax liabilities exposure",
+    "Foreign exchange fluctuations",
+    "Debt service capacity"
+  ],
+  "Compliance Risks": [
+    "Regulatory compliance failure",
+    "Privacy law compliance",
+    "Data protection laws",
+    "Environmental regulation risks",
+    "Legal proceedings exposure"
   ],
   "Technology Risks": [
-    "Cloud strategy execution risk",
-    "Coding and configuration errors",
-    "Security measures compromise"
+    "Technological changes",
+    "Cloud services risks",
+    "AI use risks",
+    "IT system vulnerabilities",
+    "Service disruption risks"
   ],
-  "Legal and Regulatory": [
-    "Data privacy regulations",
-    "Government contract risks"
-  ],
-  "Competition": [
-    "Intense competition risk",
-    "Pricing model changes"
-  ],
-  "Global Operations": [
-    "International sales risks",
-    "Currency exchange fluctuations"
-  ],
-  "Human Resources": [
-    "Key employee retention",
-    "Workforce restructuring impact"
-  ],
-  "Supply Chain": [
-    "Manufacturing delays",
-    "Component supply risks"
-  ],
-  "Financial Volatility": [
-    "Revenue recognition volatility",
-    "Foreign currency losses"
-  ],
-  "Acquisition Risks": [
-    "Acquisition integration failure",
-    "Acquisition financial impact"
-  ],
-  "Intellectual Property": [
-    "IP protection challenges",
-    "Third-party infringement claims"
-  ],
-  "Taxation": [
-    "Tax liabilities exposure",
-    "Tax rate changes"
-  ],
-  "Reputation Risks": [
-    "Brand reputation damage"
-  ],
-  "Investment Risks": [
-    "Stock repurchase program risk"
-  ],
-  "Environmental Risks": [
-    "Environmental law compliance"
+  "Geopolitics Risks": [
+    "Political unrest impact",
+    "Trade disputes impact",
+    "Global operational risks",
+    "Climate change effects"
   ]
 }

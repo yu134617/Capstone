@@ -1,0 +1,34 @@
+{
+  "Operational Risks": [
+    "Intense competition",
+    "Manufacturing disruption risks",
+    "Third-party dependency",
+    "Product quality risks",
+    "COVID-19 pandemic impact"
+  ],
+  "Compliance Risks": [
+    "Regulatory compliance failure",
+    "Legal proceedings exposure",
+    "Product quality risks",
+    "Regulatory compliance failure"
+  ],
+  "Financial Risks": [
+    "Tax liabilities exposure",
+    "Foreign exchange fluctuations"
+  ],
+  "Strategic Risks": [
+    "Intellectual property protection risk",
+    "Innovation failure"
+  ],
+  "Geopolitics Risks": [
+    "Political unrest impact",
+    "Trade disputes impact"
+  ],
+  "Technology Risks": [
+    "Cybersecurity breach",
+    "Data security breaches"
+  ],
+  "Market Risks": [
+    "Pricing pressure risks"
+  ]
+}

@@ -1,61 +1,44 @@
 {
-  "Market Risk": [
-    "Obesity Health Concerns",
-    "Consumer Preferences Shift",
-    "Increased Competition",
-    "Retail Landscape Changes",
-    "Emerging Markets Expansion",
-    "Foreign Exchange Fluctuations",
-    "Unfavorable U.S. Economy",
-    "International Economic Conditions"
+  "Operational": [
+    "Product safety and quality concerns",
+    "Supply chain disruptions",
+    "IT system failures",
+    "Manufacturing disruption risks",
+    "Product defects impact"
   ],
-  "Operational Risk": [
-    "Water Scarcity Impact",
-    "Agricultural Productivity Decline",
-    "Product Safety Concerns",
-    "Ingredient Health Concerns",
-    "Innovation Failure",
-    "Digital Transformation Failure",
-    "Supply Chain Disruptions",
-    "Energy Cost Increase",
-    "Raw Material Shortage",
-    "Plastic Environmental Impact",
-    "Beverage Container Regulations",
-    "Product Labeling Requirements",
-    "Bottling Partner Dependence",
-    "Bottling Partner Financial Health",
-    "Workforce Retention",
-    "Labor Unrest",
-    "Manufacturing Integration",
-    "Refranchising Challenges",
-    "Monster Partnership Risks",
-    "Catastrophic Events Impact"
+  "Strategic": [
+    "Intense competition",
+    "Innovation failure",
+    "Market competition pressures",
+    "Brand reputation damage",
+    "R&D investment risks"
   ],
-  "Financial Risk": [
-    "Interest Rate Increase",
-    "Tax Rate Changes",
-    "Indirect Tax Increases",
-    "Productivity Initiative Costs",
-    "Impairment Charges",
-    "Pension Plan Liabilities",
-    "Credit Market Deterioration",
-    "Counterparty Default Risk"
+  "Financial": [
+    "Quarterly results fluctuations",
+    "Revenue growth decline",
+    "Gross margin pressures",
+    "Tax liabilities exposure",
+    "Foreign exchange fluctuations"
   ],
-  "Compliance Risk": [
-    "Data Protection Laws",
-    "Privacy Regulation Compliance",
-    "Environmental Regulations",
-    "Workplace Human Rights",
-    "Third-Party Compliance",
-    "Intellectual Property Protection",
-    "Legal Proceedings Exposure",
-    "High-Risk Market Compliance"
+  "Compliance": [
+    "Regulatory compliance failure",
+    "Privacy law compliance",
+    "Data protection laws",
+    "Environmental regulation risks",
+    "Tax regulation changes"
   ],
-  "Strategic Risk": [
-    "Brand Image Damage",
-    "Climate Change Impact",
-    "Long-Term Growth Failure",
-    "Acquisition Integration",
-    "Global Operations Risks"
+  "Geopolitics": [
+    "Political unrest impact",
+    "Trade disputes impact",
+    "Global operational risks",
+    "Brexit impact",
+    "Regulatory changes impact"
+  ],
+  "Technology": [
+    "Technological changes",
+    "IT system vulnerabilities",
+    "Cloud services risks",
+    "AI use risks",
+    "IoT security risks"
   ]
 }

@@ -1,0 +1,36 @@
+{
+  "Risks Related to Our Business": [
+    "Economic conditions impact",
+    "new factor: Innovation failure risk",
+    "new factor: Reputation damage risk",
+    "new factor: Growth investment risks",
+    "Intellectual property protection risk",
+    "Acquisition integration risks",
+    "Quarterly results fluctuations",
+    "International operations risks",
+    "Growth target failure",
+    "Workforce retention challenges",
+    "Third-party dependency",
+    "Product quality risks",
+    "Government contracts risks",
+    "Distribution channel dependency"
+  ],
+  "Risks Related to Cybersecurity and Data Privacy": [
+    "Cybersecurity breach risks",
+    "Data privacy compliance risks"
+  ],
+  "Risks Related to Laws and Regulations": [
+    "Environmental regulation risks",
+    "Tax regulation changes",
+    "Legal proceedings exposure"
+  ],
+  "Risks Related to Financing and Capital Markets Activities": [
+    "Pension liabilities exposure",
+    "Currency exchange risks",
+    "Credit risk exposure"
+  ],
+  "Risks Related to Ownership of IBM Securities": [
+    "Stock price volatility",
+    "Debt security risks"
+  ]
+}

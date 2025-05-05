@@ -1,0 +1,37 @@
+{
+  "Operational Risks": [
+    "COVID-19 pandemic impact",
+    "Supply chain disruptions",
+    "Third-party dependency",
+    "Workforce retention challenges",
+    "Energy/fuel cost increases"
+  ],
+  "Strategic Risks": [
+    "Intense competition",
+    "Innovation failure",
+    "new factor: Retail landscape changes",
+    "Emerging market expansion risk",
+    "Productivity initiative risks"
+  ],
+  "Market Risks": [
+    "Consumer preference shifts",
+    "Product safety concerns",
+    "Brand reputation damage"
+  ],
+  "Financial Risks": [
+    "Input cost inflation",
+    "Currency exchange risks"
+  ],
+  "Compliance Risks": [
+    "Environmental regulation risks",
+    "Packaging regulation changes",
+    "Tax litigation exposure"
+  ],
+  "Technology Risks": [
+    "Digital transformation failure",
+    "Cybersecurity breach"
+  ],
+  "Geopolitical Risks": [
+    "Political/economic instability"
+  ]
+}

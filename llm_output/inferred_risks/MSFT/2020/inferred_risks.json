@@ -1,60 +1,32 @@
 {
-  "Competition Risk": [
-    "Intense competition across markets",
-    "Competition in technology sector",
-    "Competition among platform ecosystems",
+  "Strategic Risks": [
+    "Intense competition",
     "Business model competition"
   ],
-  "Product and Service Risks": [
-    "Cloud-based services execution risks",
-    "Product investments returns uncertainty",
-    "Product development complexity",
-    "Hardware product quality issues",
-    "Software product defects"
-  ],
-  "Strategic Risks": [
-    "Acquisitions adverse effects",
-    "Goodwill impairment risks",
-    "Strategic alliances challenges"
-  ],
-  "Cybersecurity Risks": [
-    "Cyberattacks and security vulnerabilities",
-    "IT security threats",
-    "Product security vulnerabilities",
-    "Data privacy breaches",
+  "Technology Risks": [
+    "Cloud-based services risks",
+    "AI use risks",
     "IoT security risks"
   ],
-  "Legal and Regulatory Risks": [
-    "Government litigation risks",
-    "Competition law compliance",
-    "Anti-corruption laws compliance",
-    "Data protection regulations",
-    "Tax liabilities exposure"
-  ],
   "Operational Risks": [
-    "Service outages risks",
+    "Product quality risks",
     "Supply chain disruptions",
-    "Manufacturing quality issues",
-    "Inventory management challenges",
-    "IT infrastructure failures"
+    "IT system failures",
+    "Data security breaches",
+    "Workforce retention challenges"
   ],
-  "Reputation Risks": [
-    "Brand reputation damage",
-    "Platform abuse risks",
-    "Content moderation failures"
+  "Compliance Risks": [
+    "Regulatory compliance failure",
+    "Privacy law compliance",
+    "Data protection laws",
+    "Anti-corruption laws risks"
   ],
   "Financial Risks": [
-    "Investment returns uncertainty",
-    "Revenue recognition volatility",
-    "Foreign exchange fluctuations"
+    "Tax liabilities exposure",
+    "Investment portfolio fluctuations"
   ],
-  "Human Resource Risks": [
-    "Key employee retention",
-    "Workforce talent competition"
-  ],
-  "Global Risks": [
-    "Geopolitical instability",
-    "Economic conditions impact",
-    "Pandemic business disruption"
+  "Geopolitics Risks": [
+    "Political unrest impact",
+    "Trade disputes impact"
   ]
 }

@@ -1,48 +1,47 @@
 {
-  "Operational Risk": [
-    "COVID-19 Pandemic Impact",
-    "Supply Chain Disruptions",
-    "Product Demand Fluctuations",
-    "Inventory Management Complexity",
-    "Manufacturing Lead Times",
-    "Product Quality Problems",
-    "Counterfeit Products",
-    "Natural Disasters Impact",
-    "Terrorism Impact"
+  "Operational Risks": [
+    "Supply chain disruptions",
+    "IT system failures",
+    "Product defects impact",
+    "Inventory management challenges",
+    "Key personnel dependency",
+    "Cybersecurity breach",
+    "Data security breaches",
+    "Third-party dependency",
+    "Product quality risks",
+    "Business disruption risks",
+    "Natural disasters impact"
   ],
-  "Financial Risk": [
-    "Revenue Predictability",
-    "Gross Margin Variability",
-    "Operating Results Fluctuations",
-    "Economic Conditions Impact",
-    "Currency Exchange Fluctuations",
-    "Investment Portfolio Volatility",
-    "Credit Risk Exposure",
-    "Debt Service Requirements"
+  "Financial Risks": [
+    "Quarterly results fluctuations",
+    "Revenue growth decline",
+    "Gross margin pressures",
+    "Foreign exchange fluctuations",
+    "Debt service capacity",
+    "Investment portfolio fluctuations"
   ],
-  "Strategic Risk": [
-    "New Product Development",
-    "Market Entry Challenges",
-    "Acquisition Integration Risks",
-    "Strategic Alliance Management",
-    "Industry Consolidation",
-    "Technology Evolution",
-    "Business Model Transition"
+  "Strategic Risks": [
+    "Intense competition",
+    "Acquisition integration risks",
+    "Innovation failure",
+    "Market competition pressures",
+    "Brand reputation damage",
+    "R&D investment risks",
+    "Strategic alliances performance"
   ],
-  "Compliance Risk": [
-    "Intellectual Property Protection",
-    "Regulatory Changes",
-    "Tax Law Changes",
-    "Legal Proceedings Exposure",
-    "Data Security Breaches",
-    "Privacy Law Compliance",
-    "Telecom Regulation Changes"
+  "Compliance Risks": [
+    "Regulatory compliance failure",
+    "Privacy law compliance",
+    "Legal proceedings exposure"
   ],
-  "Reputation Risk": [
-    "Brand Reputation Damage",
-    "Customer Trust Erosion",
-    "Negative Publicity",
-    "Service Provider Relationships",
-    "Channel Partner Conflicts"
+  "Geopolitics Risks": [
+    "Political unrest impact",
+    "Trade disputes impact",
+    "Global operational risks"
+  ],
+  "Technology Risks": [
+    "Technological changes",
+    "IT system vulnerabilities",
+    "Cloud services risks"
   ]
 }

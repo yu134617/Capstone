@@ -1,37 +1,33 @@
 {
-  "Business Risks": [
+  "Strategic Risks": [
     "Patent protection loss",
-    "Major products patent loss",
-    "Third-party intellectual property",
-    "HUMIRA revenue impact",
-    "R&D failure",
-    "Third-party collaborations",
-    "Biologics unique risks",
-    "Biologics competition",
-    "Competitor advances",
-    "Manufacturing process issues",
-    "Single supplier reliance",
+    "Early patent expiration",
+    "Third-party IP infringement",
+    "Product revenue dependency",
+    "R&D failure risk",
+    "Third-party collaboration risks",
+    "Biologics development risks",
+    "Biosimilars competition",
+    "Competitor product advances",
+    "Manufacturing process complexity",
+    "Single supplier dependency",
     "Product safety issues",
     "Product liability claims",
-    "Pricing pressures",
-    "Regulatory compliance",
-    "Government benefit laws",
-    "International operations",
-    "Product commercialization",
-    "Acquisition integration",
-    "Wholesale distributor dependence",
-    "Debt obligations",
-    "Additional financing needs",
-    "IT system failures",
-    "Key personnel retention"
+    "Pricing pressure risks",
+    "Regulatory compliance costs",
+    "Government benefit program laws",
+    "International business risks",
+    "Commercialization failure",
+    "Acquisition integration risks",
+    "Wholesaler dependency"
   ],
-  "Acquisition Risks": [
-    "Acquisition completion risk",
-    "Increased indebtedness"
+  "Financial Risks": [
+    "Debt obligation impact",
+    "Financing needs risk",
+    "Dividend payment uncertainty",
+    "Stock ownership dilution"
   ],
-  "Stock Risks": [
-    "Dividend uncertainty",
-    "Ownership dilution",
-    "Anti-takeover provisions"
+  "Compliance Risks": [
+    "Takeover prevention provisions"
   ]
 }

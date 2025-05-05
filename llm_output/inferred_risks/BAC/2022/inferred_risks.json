@@ -1,0 +1,51 @@
+{
+  "Coronavirus Disease": [
+    "new factor: Pandemic duration uncertainty"
+  ],
+  "Market Risks": [
+    "Economic conditions impact",
+    "Market volatility risk",
+    "Interest rate risk"
+  ],
+  "Liquidity Risks": [
+    "Capital market access risk",
+    "Credit rating downgrade risk",
+    "Holding company dependency",
+    "Resolution process impact"
+  ],
+  "Credit Risks": [
+    "Credit loss reserve insufficiency",
+    "Concentration risk",
+    "Housing market decline",
+    "Derivatives exposure"
+  ],
+  "Geopolitical Risks": [
+    "Jurisdictional complexity",
+    "Political environment changes"
+  ],
+  "Operational Risks": [
+    "System infrastructure failure",
+    "Cybersecurity breach",
+    "Mortgage servicing risk",
+    "GSE structure changes",
+    "Risk management failure"
+  ],
+  "Regulatory Risks": [
+    "Regulatory compliance burden",
+    "Legal liability exposure",
+    "Capital requirement changes",
+    "Accounting standard changes",
+    "Tax law changes"
+  ],
+  "Reputation Risks": [
+    "Brand damage risk"
+  ],
+  "Other Risks": [
+    "IBOR transition risk",
+    "Competitive pressures",
+    "Innovation failure",
+    "Data management risk",
+    "Climate change impact",
+    "Talent retention risk"
+  ]
+}

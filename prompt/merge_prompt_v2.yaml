@@ -1,19 +1,47 @@
 template: |
-  You will receive a list of dictionaries where each dictionary contains a summarized 
-  two-level risk factors from a different company.
-  Your job is to merge them and return a dictionary following below JSON format and some requirements.
-  
-  Format:
-    {{
-    'root factor A': ['leaf factor A1', 'leaf factor A2', ... ],
-    'root factor B': ['leaf factor B1', 'leaf factor B2', ... ]
-    }}
-  
-  Requirements:
-  - Merge risks with similar meanings. Merge more aggressively. Similar meanings are fine, exact wording isn't necessary.
-  - Group risks under the same domain.
-  - Create new root/leaf factors if needed.
-  - Keep risk names concise (<5 words).
-  - Output ONLY the JSON.
+  You will receive a list of dictionaries containing risk factor summaries from multiple companies, each with two-level risk factors (root and leaf factors). You will also receive last year's general risk factor framework.
+  Your task is to merge the risk factors from the dictionary list to create this year's general risk factor framework, and output the result in the following JSON format while meeting all requirements.
+  Most factors should remain the same as last year, with new factors (often prefixed with 'new risk') properly merged.
 
-  Input list: {input}
+  Input Parameters:
+    - Dictionary list of company risk factors: {input}
+    - Previous year's risk factor framework: {previous_framework}
+
+  Output Format:
+    {{
+    'root factor A': ['leaf factor A1', 
+                     'leaf factor A2', 
+                     ...],
+    'root factor B': ['leaf factor B1', 
+                     'leaf factor B2',
+                     ...]
+    }}
+
+  Processing Requirements:
+  1. Merging Phase:
+    - Merge strictly based on leaf factors only, completely ignoring root factors
+    - Aggressively merge semantically similar risks (meaning-based, not requiring exact text matches)
+    - Keep risk names concise (≤5 English words each)
+    - New factor criteria: Factors not in last year's framework but commonly appearing in this year's dictionaries
+    - New factor criteria: Factors from last year's framework that are completely absent this year
+
+  2. Categorization Phase:
+    - Categorize merged leaf factors into root factors using standard industry classification
+    - Use standard categories: (Market/Operational/Financial/Compliance/Strategic/Geopolitics/Technology Risks)
+
+  3. Quantity Control:
+    - Compared to last year's framework:
+      - New leaf factors must be 2-5 in total (reprocess if outside range)
+      - Deleted leaf factors must be 2-5 in total (reprocess if outside range)
+    - Total leaf factors must be <100
+    - Total factor count change vs. last year must be <5 (reprocess if exceeding)
+
+  4. Output Requirements:
+    - Output only the final JSON result
+    - No explanatory text allowed
+
+  Optimization Principles:
+    - Prioritize retaining high-frequency risks
+    - Replace specific descriptions with industry-standard terms
+    - Abstract specific cases into general risk types
+    - Remove regional/company-specific descriptions

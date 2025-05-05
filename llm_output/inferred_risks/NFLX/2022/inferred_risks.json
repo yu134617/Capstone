@@ -1,0 +1,45 @@
+{
+  "Risks Related to Our Business": [
+    "Competition Intensification",
+    "new factor: COVID-19 Disruption",
+    "Content Liability Risks",
+    "Growth Management Challenges",
+    "Reputation Damage Risk",
+    "Acquisition Integration Risks",
+    "Device Partner Dependency",
+    "Payment Processing Risks",
+    "Regulatory Compliance Burden",
+    "Litigation Exposure"
+  ],
+  "Risks Related to Intellectual Property": [
+    "Content Licensing Risks",
+    "Intellectual Property Infringement",
+    "Patent Litigation Risks"
+  ],
+  "Risks Related to Information Technology": [
+    "Cybersecurity Breach",
+    "Cloud Service Dependency",
+    "Technology Failure Risk",
+    "Network Neutrality Risks"
+  ],
+  "Risks Related to Privacy": [
+    "Data Privacy Compliance",
+    "Payment Fraud Risks"
+  ],
+  "Risks Related to Liquidity": [
+    "Fixed Cost Commitments",
+    "Debt Servicing Risks"
+  ],
+  "Risks Related to International Operations": [
+    "Multinational Operational Risks",
+    "Taxation Complexity"
+  ],
+  "Risks Related to Human Resources": [
+    "Key Personnel Dependency",
+    "Labor Dispute Risks"
+  ],
+  "Risks Related to Our Stock Ownership": [
+    "Takeover Defense Risks",
+    "Stock Volatility Risk"
+  ]
+}
