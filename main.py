@@ -1,6 +1,6 @@
 from gen_risk import read_stock_list, process_companies
 from build_framework import merge_company_risk_factors as build_merge
-from gen_risk_by_framework import infer_risk
+from infer_risk import infer_risk
 from update_framework import merge_company_risk_factors as update_merge
 
 

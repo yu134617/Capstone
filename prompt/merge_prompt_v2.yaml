@@ -31,10 +31,10 @@ template: |
 
   3. Quantity Control:
     - Compared to last year's framework:
-      - New leaf factors must be 2-5 in total (reprocess if outside range)
-      - Deleted leaf factors must be 2-5 in total (reprocess if outside range)
+      - New leaf factors must be 2-5 in total (reprocess if outside range until the requirements are met)
+      - Deleted leaf factors must be 2-5 in total (reprocess if outside range until the requirements are met)
     - Total leaf factors must be <100
-    - Total factor count change vs. last year must be <5 (reprocess if exceeding)
+    - Total factor count change vs. last year must be <5 (reprocess if exceeding until the requirements are met)
 
   4. Output Requirements:
     - Output only the final JSON result
